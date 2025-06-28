@@ -1,9 +1,9 @@
 ---
 ---
 
-1. Au début, Dominique écrit à propos
+1. Au début, Dominique écrit au sujet
 
-   * d'un espion
+   * d'une espionne
    * d'un feu d'artifice
    * d'un agent de sécurité
    * d'une lettre

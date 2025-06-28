@@ -1,7 +1,7 @@
 ---
 ---
 
-1. La mère de Louis veut que Louis se taise parce que
+1. La mère de Louis veut qu'il se taise parce que
 
    * il révèle les secrets du tableau
    * il est impoli et parle trop fort
