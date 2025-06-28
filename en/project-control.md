@@ -31,7 +31,7 @@
    * connect the wires to the red tubes
    * enter the code 'four two seven eight'
 
-   but then she wakes up. She was dreaming.
+   But then she wakes up. She was dreaming.
 
 6. Her manager fires her, and Nicole realises
 

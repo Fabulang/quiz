@@ -31,7 +31,7 @@
    * collegare i cavi ai tubi rossi
    * inserire il codice 'quattro due sette otto'
 
-   ma poi si sveglia. Stava sognando.
+   Ma poi si sveglia. Stava sognando.
 
 6. Il suo capo la licenzia, e Nicoletta capisce che
 
