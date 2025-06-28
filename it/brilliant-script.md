@@ -1,11 +1,11 @@
 ---
 ---
 
-1. All'inizio, Domenico sta scrivendo di
+1. All'inizio, Domenico sta scrivendo
 
-   * una spia
-   * fuochi d'artificio
-   * una guardia di sicurezza
+   * di una spia
+   * di fuochi d'artificio
+   * di una guardia di sicurezza
    * una lettera
 
 2. La vicina di Domenico è

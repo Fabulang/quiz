@@ -37,4 +37,4 @@
    * gli ricorda suo padre
    * proviene da un film di fantascienza che gli piace
    * gli piace smontarlo e rimontarlo
-   * è stato un regalo di suo padre
+   * è un regalo di suo padre

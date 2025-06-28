@@ -11,7 +11,7 @@
 
    * uno stipendio alto
    * uno stipendio basso
-   * di più se si impegna maggiormente
+   * di più se lei si impegna maggiormente
 
 3. Il capo di Nicoletta
 
@@ -23,7 +23,7 @@
 
    * l'azienda droga i propri dipendenti
    * lei è sotto sorveglianza
-   * non otterrà mai una promozione
+   * lei non otterrà mai una promozione
 
 5. Nicoletta trova una bomba e i messaggi le spiegano come usarla:
 
