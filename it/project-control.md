@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Nicole lavora per una grande azienda. Lei
+1. Nicoletta lavora per una grande azienda. Lei
 
    * non riesce a immaginare di lavorare altrove
    * apprezza il lavoro, anche se è impegnativo
@@ -19,13 +19,13 @@
    * vuole che lei proponga idee nuove
    * le chiede di usare più grafici nei rapporti
 
-4. Nicole riceve strani messaggi che rivelano che
+4. Nicoletta riceve strani messaggi che rivelano che
 
    * l'azienda droga i propri dipendenti
    * lei è sotto sorveglianza
    * non otterrà mai una promozione
 
-5. Nicole trova una bomba e i messaggi le spiegano come usarla:
+5. Nicoletta trova una bomba e i messaggi le spiegano come usarla:
 
    * premere i pulsanti per attivare un timer di dieci minuti
    * collegare i cavi ai tubi rossi
@@ -33,7 +33,7 @@
 
    ma poi si sveglia. Stava sognando.
 
-6. Il suo capo la licenzia, e Nicole capisce che
+6. Il suo capo la licenzia, e Nicoletta capisce che
 
    * quel lavoro non faceva per lei
    * non troverà mai un lavoro migliore
