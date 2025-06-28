@@ -13,7 +13,7 @@
    * a low salary
    * more if she works harder
 
-3. Her manager
+3. Nicole's manager
 
    * says her work doesn't meet his standards
    * wants her to come up with new ideas

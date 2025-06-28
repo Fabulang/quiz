@@ -13,9 +13,9 @@
    * un salaire faible
    * plus d'argent si elle travaille davantage
 
-3. Son responsable
+3. Le responsable de Colette
 
-   * trouve que son travail ne correspond pas à ses attentes
+   * trouve que le travail de Colette ne correspond pas à ses attentes
    * aimerait qu'elle propose de nouvelles idées
    * lui demande d'intégrer davantage de graphiques dans ses rapports
 

@@ -13,9 +13,9 @@
    * uno stipendio basso
    * di più se si impegna maggiormente
 
-3. Il suo capo
+3. Il capo di Nicoletta
 
-   * dice che il suo lavoro non soddisfa le sue aspettative
+   * dice che il lavoro di Nicoletta non soddisfa le sue aspettative
    * vuole che lei proponga idee nuove
    * le chiede di usare più grafici nei rapporti
 
