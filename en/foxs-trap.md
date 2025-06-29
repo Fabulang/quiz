@@ -17,7 +17,7 @@
    so he
 
    * invents a story
-   * tell her
+   * tells her
 
    about a magic lake and offers to take her there.
 
