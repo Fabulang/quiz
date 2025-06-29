@@ -17,10 +17,10 @@
 
    But she had to pay a price:
 
-   * She can never lie.
-   * She'll always be a slave.
-   * She can only use the power to help her master.
-   * She can't keep any secrets.
+   * She can never lie
+   * She'll always be a slave
+   * She can only use the power to help her master
+   * She can't keep any secrets
 
 3. Lucia uses her power to help her master
 

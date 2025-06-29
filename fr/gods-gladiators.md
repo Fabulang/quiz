@@ -17,10 +17,10 @@
 
    Mais elle a dû en payer le prix:
 
-   * Elle ne peut jamais mentir.
-   * Elle restera toujours esclave.
-   * Elle ne peut utiliser son pouvoir que pour aider son maître.
-   * Elle ne peut garder aucun secret.
+   * Elle ne peut jamais mentir
+   * Elle restera toujours esclave
+   * Elle ne peut utiliser son pouvoir que pour aider son maître
+   * Elle ne peut garder aucun secret
 
 3. Lucia utilise son pouvoir pour aider son maître
 
