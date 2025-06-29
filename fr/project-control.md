@@ -25,7 +25,7 @@
    * quelqu'un l'observe
    * elle n'obtiendra jamais de promotion
 
-5. Colette découvre une bombe, et les messages lui expliquent comment l'utiliser :
+5. Colette découvre une bombe, et les messages lui expliquent comment l'utiliser:
 
    * appuyer sur les boutons pour lancer un compte à rebours de dix minutes
    * relier les fils aux tubes rouges
