@@ -26,11 +26,11 @@
    * lascia il suo impiego
    * trova un nuovo lavoro
 
-   come scienziata impegnata in
+   come scienziata che fa ricerche su
 
-   * viaggi nel tempo
-   * teletrasporto
-   * tecnologie di comunicazione
+   * i viaggi nel tempo
+   * il teletrasporto
+   * le tecnologie di comunicazione
 
 5. Federica capisce che
 
