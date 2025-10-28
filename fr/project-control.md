@@ -5,7 +5,7 @@
 
    * ne peut pas imaginer travailler ailleurs
    * apprécie ce poste, même si le travail est difficile
-   * espère obtenir une promotion un jour
+   * espère obtenir une augmentation un jour
 
 2. Le poste offre
 

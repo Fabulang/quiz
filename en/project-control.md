@@ -5,7 +5,7 @@
 
    * can't imagine working somewhere else
    * likes the job, even though the work is difficult
-   * looks forward to being promoted eventually
+   * looks forward to getting a pay-rise eventually
 
 2. The job pays
 

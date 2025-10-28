@@ -5,7 +5,7 @@
 
    * non riesce a immaginare di lavorare altrove
    * apprezza il lavoro, anche se è impegnativo
-   * spera di ottenere prima o poi una promozione
+   * spera di ottenere prima o poi un aumento
 
 2. Il lavoro offre
 
