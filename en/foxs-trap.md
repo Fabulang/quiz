@@ -16,10 +16,10 @@
 
    so he
 
-   * invents a story
-   * tells her
+   * invents a story about
+   * reveals the existence of
 
-   about a magic lake and offers to take her there.
+   a magic lake, and offers to take her there.
 
 3. Miss Mouse
 
