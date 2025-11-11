@@ -15,7 +15,7 @@
    * investigate different suspects
    * bring evidence back to the present
 
-3. In the case of Mr. Falkenroth, the cause of death was
+3. In the case of Mr Falkenroth, the cause of death was
 
    * a stab wound
    * being shot in the back 
