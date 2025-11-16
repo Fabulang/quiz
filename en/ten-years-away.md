@@ -17,21 +17,21 @@
 
 3. Why does the waiter bring Josephine tomato soup?
 
-   * He made a mistake.
-   * She ordered it by mistake.
-   * He is trying to upset her.
-   * It's a special, local soup.
+   * He made a mistake
+   * She ordered it by mistake
+   * He is trying to upset her
+   * It's a special, local soup
 
 4. Why does the waiter bring her a dessert?
 
-   * To cheer her up.
-   * Because it's free.
-   * She ordered it.
-   * He knows it's her favourite.
+   * To cheer her up
+   * Because it's free
+   * She ordered it
+   * He knows it's her favourite
 
 5. Why does Josephine feel happy at the end?
 
-   * The dessert brought back good memories.
-   * Her grandmother is the chef.
-   * The dessert was prepared using a traditional recipe.
-   * The waiter was flirting with her.
+   * The dessert brought back good memories
+   * Her grandmother is the chef
+   * The dessert was prepared using a traditional recipe
+   * The waiter was flirting with her
