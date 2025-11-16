@@ -31,10 +31,10 @@
 
    But the virus didn't work. Ultimately, it would
 
-   * protect those people
-   * protect everyone except those people
    * kill those people
    * kill everyone except those people
+   * protect those people
+   * protect everyone except those people
 
 5. Evelyn realises that the virus
 
