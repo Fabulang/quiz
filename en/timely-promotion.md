@@ -1,9 +1,10 @@
 ---
 ---
 
-1. Jane gains gains the power to control the speed of time, because
+1. Jane gains gains the power to control time, because
 
    * lightning strikes her watch
+   * lightning strikes the clock
    * the coffee machine malfunctions
    * she drinks coffee that is glowing blue
    * her watch malfunctions and shocks her
@@ -20,9 +21,11 @@
    * her retirement party
    * her promotion
    * her birthday
+   * the day she takes over the company
 
 4. Jane decides
 
    * to live in the moment
    * to find a way to jump back
    * to experience the party again and again
+   * to eat every slice of cake
