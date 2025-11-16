@@ -8,7 +8,7 @@
    * a machine
    * a lifeform
 
-   called Z
+   called Z.
 
 2. She works on Z because
 
