@@ -5,9 +5,10 @@
 
    * across Europe
    * across the world
-   * to Paris, Rome and France
+   * to Paris, Rome and London
+   * to all the capitals of Europe
 
-2. She places she visits
+2. The places she visits
 
    * don't live up to her expectations
    * are just as good as they appear in the movies
@@ -25,6 +26,7 @@
    * they continue travelling together
    * they get the next flight together
    * they get dinner together
+   * they do something crazy together
 
 5. In the end, Juliet feels
 
