@@ -1,18 +1,16 @@
 ---
 ---
 
-1. Ferdinand is on holiday, but he's sleepwalking!
-   
-   First, he visits
+1. Ferdinand is on holiday, but he's sleepwalking! First, he visits
 
    * an ice-cream shop
    * a grocery store
    * a man who sells cabbages and potatoes
    * a fancy hotel
 
-2. The shopkeeper
+2. The person behind the counter
 
-   * takes the correct amount from Ferdinand's wallet
+   * helps Ferdinand to pay the correct amount
    * takes all the money from Ferdinand's wallet
    * steals Ferdinand's wallet
 
@@ -21,10 +19,11 @@
    * thinks Ferdinand is negotiating about the price
    * realises Ferdinand is a tourist and tries to charge more
    * is aggressive, because he doesn't like tourists
+   * offers Ferdinand a special discount
 
 4. When Ferdinand wakes up, he is surrounded by bags full of
 
-   * cabbages and potatoes
+   * vegetables
    * ice-cream
    * souvenirs
 
