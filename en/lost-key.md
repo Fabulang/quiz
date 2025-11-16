@@ -23,10 +23,10 @@
 
 4. Why are there no gold coins in the wooden box?
 
-   * The box has nothing to do with the pirate.
-   * The woman already took the gold coins.
-   * The letter inside explains where to find the gold.
-   * They've both made a mistake.
+   * The box has nothing to do with the pirate
+   * The woman already took the gold coins
+   * The letter inside explains where to find the gold
+   * They've both made a mistake
 
 5. At the end, the old woman is crying, because
 

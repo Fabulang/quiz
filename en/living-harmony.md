@@ -26,12 +26,12 @@
 
    * they both seem sad that she's leaving
    * they are both still angry with each other
-   * Victoria leaves as quickly as possible.
+   * Victoria leaves as quickly as possible
    * Jeremy tells her to leave nothing behind
 
 5. What does the ending reveal?
 
-   * In fact, Jeremy and Victoria are in love.
-   * In fact, Jeremy and Victoria didn't mind living together.
-   * Victoria forgot something in the flat.
-   * Victoria feels bad and wants to apologise.
+   * In fact, Jeremy and Victoria are in love
+   * In fact, Jeremy and Victoria didn't mind living together
+   * Victoria forgot something in the flat
+   * Victoria feels bad and wants to apologise
