@@ -10,12 +10,12 @@
 
 2. Le théâtre était spécial pour Adélaïde, parce que
 
-   * elle l’avait construit
+   * elle l'avait construit
    * la maire le lui avait dédié
    * elle y vivait
-   * elle s’y était produite pendant plus de soixante ans
+   * elle s'y était produite pendant plus de soixante ans
 
-3. Avant d’être abandonné, le théâtre était
+3. Avant d'être abandonné, le théâtre était
 
    * un élément important de la culture locale
    * un lieu de rencontre pour les habitants de la ville

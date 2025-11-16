@@ -32,6 +32,6 @@
 5. It turns out that
 
    * the real thief was the judge himself
-   * the judge wasn't a real judge -- it was a disguise
+   * the judge wasn't a real judge: it was a disguise
    * Mr Grey *did* steal the pen
    * the King simply lost his pen

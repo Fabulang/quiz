@@ -24,13 +24,13 @@
 4. Le professeur Penne a laissé les notes
 
    * pour encourager Édouard à lire
-   * pour éviter qu’Édouard ne s’ennuie
-   * pour s’assurer qu’Édouard mérite le trésor
+   * pour éviter qu'Édouard ne s'ennuie
+   * pour s'assurer qu'Édouard mérite le trésor
    * par accident
 
 5. À cause des notes, Édouard
 
    * apprend à aimer la lecture
    * devient riche
-   * fait beaucoup d’exercice
+   * fait beaucoup d'exercice
    * décide de prendre sa retraite

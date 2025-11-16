@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Geoffroy accroche un tableau au mur, mais il a commis une erreur :
+1. Geoffroy accroche un tableau au mur, mais il a commis une erreur:
 
    * ce n'était pas l'œuvre qu'il attendait de recevoir
    * elle n'était pas prête à être exposée

@@ -15,7 +15,7 @@
    * ha rubato molti oggetti simili in passato
    * è un criminale pericoloso e violento
 
-3. L’avvocata del signor Grigio afferma che lui
+3. L'avvocata del signor Grigio afferma che lui
 
    * è un criminale ormai riformato
    * aveva saldato i suoi debiti, quindi non aveva bisogno di soldi
@@ -32,6 +32,6 @@
 5. Si scopre che
 
    * il vero ladro era proprio il giudice
-   * il giudice non era un vero giudice — era un travestimento
+   * il giudice non era un vero giudice: era un travestimento
    * il signor Grigio *aveva davvero* rubato la penna
    * il Re aveva semplicemente perso la sua penna

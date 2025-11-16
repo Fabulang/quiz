@@ -10,7 +10,7 @@
 
 2. La persona dietro il bancone
 
-   * aiuta Fernando a pagare l’importo corretto
+   * aiuta Fernando a pagare l'importo corretto
    * prende tutti i soldi dal portafoglio di Fernando
    * ruba il portafoglio di Fernando
 
@@ -29,6 +29,6 @@
 
    perché, mentre camminava nel sonno, deve aver
 
-   * detto al personale dell’hotel di comprarli per lui
+   * detto al personale dell'hotel di comprarli per lui
    * comprati in un negozio di alimentari
    * rubati da un negozio di alimentari

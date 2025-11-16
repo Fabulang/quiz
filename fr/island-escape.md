@@ -8,7 +8,7 @@
    * il adore la mer
    * il aime ramer
 
-2. Jacques arrive sur une île. Il décide d’y rester, parce que
+2. Jacques arrive sur une île. Il décide d'y rester, parce que
 
    * elle est magnifique
    * il y a de quoi manger
@@ -17,12 +17,12 @@
 
 3. Jacques se rend compte que
 
-   * l’île fait partie de son pays
-   * son pays est plus beau que l’île
-   * il n’est pas coincé sur l’île
+   * l'île fait partie de son pays
+   * son pays est plus beau que l'île
+   * il n'est pas coincé sur l'île
 
 4. Jacques rentre chez lui. Grâce à son expérience,
 
-   * il apprécie ce qu’il a toujours eu
+   * il apprécie ce qu'il a toujours eu
    * il aime davantage ses voisins
    * il est devenu plus humble

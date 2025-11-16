@@ -33,6 +33,6 @@
 
 5. Giosué è sorpreso perché
 
-   * c’è davvero un mostro marino
+   * c'è davvero un mostro marino
    * il responsabile gli offre un aumento
    * non viene licenziato

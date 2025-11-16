@@ -3,9 +3,9 @@
 
 1. Matthieu veut
 
-   * réussir à l’école
+   * réussir à l'école
    * aller dans une meilleure école
-   * s’amuser
+   * s'amuser
 
 2. Matthieu fait apparaître des canards, parce que
 
@@ -17,13 +17,13 @@
 3. Les canards
 
    * rendent Matthieu populaire
-   * cassent le matériel de l’école
-   * s’envolent par la fenêtre
+   * cassent le matériel de l'école
+   * s'envolent par la fenêtre
    * peuvent parler
 
 4. La directrice
 
    * est impressionnée par le sort de Matthieu
    * est très en colère contre Matthieu
-   * renvoie Matthieu de l’école
+   * renvoie Matthieu de l'école
    * gronde Matthieu

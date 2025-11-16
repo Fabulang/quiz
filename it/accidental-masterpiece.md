@@ -7,7 +7,7 @@
    * non era ancora pronto per essere esposto
    * la consegna era prevista solo per la settimana successiva
 
-2. Quando i critici d’arte vedono il quadro, essi
+2. Quando i critici d'arte vedono il quadro, essi
 
    * lo colmano di elogi
    * lo criticano duramente
@@ -18,7 +18,7 @@
 
    * il quadro appeso alla parete è letteralmente spazzatura
    * il quadro appeso alla parete è un falso
-   * lei è l’artista noto come Pennello
+   * lei è l'artista noto come Pennello
    * lei lo ha ingannato
 
 4. Il curatore diffonde una dichiarazione, e i critici
@@ -33,4 +33,4 @@
    * il curatore
    * lui stesso
   
-   è l’artista noto come Pennello.
+   è l'artista noto come Pennello.

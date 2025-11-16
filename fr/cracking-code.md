@@ -13,16 +13,16 @@
 2. Elle travaille sur Z parce que
 
    * cela lui plaît
-   * c’est son travail
+   * c'est son travail
    * cela fait partie de ses recherches
 
 3. Z rend Véronique riche
 
-   * en prédisant les gagnants d’événements sportifs
-   * lorsqu’elle vend Z à une entreprise de logiciels
+   * en prédisant les gagnants d'événements sportifs
+   * lorsqu'elle vend Z à une entreprise de logiciels
    * en plaçant des paris dans un casino en ligne
 
-4. Maintenant qu’elle est riche, Véronique
+4. Maintenant qu'elle est riche, Véronique
 
    * vit toujours de la même manière
    * commence à boire du café et à manger des nouilles
@@ -39,7 +39,7 @@
 
    * fière de son travail
    * effrayée par ce que Z est devenu
-   * ravie de gagner encore plus d’argent
+   * ravie de gagner encore plus d'argent
 
    et Z se sent
 

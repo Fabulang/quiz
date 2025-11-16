@@ -21,7 +21,7 @@
    * mentre preparava un cocktail
    * mentre fissava il mare
 
-3. Durante l’esperienza, Grazia e Tommaso si godono
+3. Durante l'esperienza, Grazia e Tommaso si godono
 
    * cibi deliziosi da tutto il mondo
    * rilassanti trattamenti termali
@@ -31,7 +31,7 @@
 4. Quando tornano a casa, Grazia e Tommaso
 
    * trovano le loro vite normali noiose
-   * si sentono grati per un’esperienza così splendida
+   * si sentono grati per un'esperienza così splendida
    * si trasferiscono in una casa più piccola
    * cercano di migliorare in cucina
 

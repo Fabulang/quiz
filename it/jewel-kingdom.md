@@ -26,7 +26,7 @@
    * Eravon si arrende
    * la Principessa viene uccisa
    * Moros riesce a fuggire
-   * Eravon lascia cadere l’arco
+   * Eravon lascia cadere l'arco
 
 4. Gabriella affronta Moros nel suo sogno, e
 

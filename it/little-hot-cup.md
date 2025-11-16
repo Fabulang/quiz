@@ -13,7 +13,7 @@
 2. Ogni giorno Arianna compra un caffè da un bar
 
    * al mattino
-   * all’ora di pranzo
+   * all'ora di pranzo
    * nel pomeriggio
 
    e lo beve
@@ -31,7 +31,7 @@
 
    così Arianna gli dà qualche consiglio.
 
-4. Alla fine, Arianna va nell’ufficio sul retro del bar perché
+4. Alla fine, Arianna va nell'ufficio sul retro del bar perché
 
    * ora lavora nel bar
    * è diventata amica del proprietario

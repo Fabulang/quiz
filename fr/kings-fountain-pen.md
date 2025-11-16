@@ -32,6 +32,6 @@
 5. Il s'avère que
 
    * le véritable voleur était le juge lui-même
-   * le juge n'était pas un vrai juge — c'était un déguisement
+   * le juge n'était pas un vrai juge: c'était un déguisement
    * M. Gris *a* bien volé le stylo
    * le roi avait simplement perdu son stylo

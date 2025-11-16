@@ -5,7 +5,7 @@
 
    * non riesce a trovare la ricetta da nessuna parte
    * la ricetta richiede troppi ingredienti
-   * la ricetta richiede un’abilità eccezionale
+   * la ricetta richiede un'abilità eccezionale
    * il compito sembra impossibile
 
 2. Lei prova a
@@ -17,14 +17,14 @@
 
    ma non serve.
 
-3. Clementina scopre l’ingrediente segreto, perché nota
+3. Clementina scopre l'ingrediente segreto, perché nota
 
    * una fotografia appesa al muro
    * un cesto di frutta in cucina
-   * un’anziana signora che visita spesso il signor Guardaboschi
+   * un'anziana signora che visita spesso il signor Guardaboschi
    * come il signor Guardaboschi prepara le crostate
 
-4. L’ingrediente segreto è un frutto che cresce
+4. L'ingrediente segreto è un frutto che cresce
 
    * nella campagna vicina
    * in cima a una montagna
@@ -35,5 +35,5 @@
 
    * ha dimostrato la sua dedizione
    * ha preparato la torta alla frutta alla perfezione
-   * ha un’ottima conoscenza dei diversi ingredienti
+   * ha un'ottima conoscenza dei diversi ingredienti
    * ha fallito la sfida, ma non si è arresa

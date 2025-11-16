@@ -11,7 +11,7 @@
 2. Al momento dell'omicidio, il signor Cavaliere afferma che stava
 
    * preparando il pranzo
-   * tagliando l’erba
+   * tagliando l'erba
    * recidendo un mazzo di rose
    * annaffiando le piante
 
@@ -25,7 +25,7 @@
 4. Il signor Cavaliere sostiene che
 
    * la morte della signora Cavaliere sia stato un suicidio
-   * l’assassino sia entrato nello studio dalla finestra
+   * l'assassino sia entrato nello studio dalla finestra
    * abbia sentito qualcuno aprire la porta dello studio
    * non abbia idea di come sia morta la signora Cavaliere
 

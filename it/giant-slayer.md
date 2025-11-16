@@ -25,21 +25,21 @@
 
    e
 
-   * aiuta l’equipaggio a sfuggire al mostro
+   * aiuta l'equipaggio a sfuggire al mostro
    * diventa immediatamente il capitano
 
 3. Cercano di fuggire, ma
 
    * il calamaro nuota più veloce della loro nave
    * non riescono ad alzare la vela
-   * l’equipaggio non segue le sue istruzioni
+   * l'equipaggio non segue le sue istruzioni
    * il vento li rallenta
 
 4. Håkon uccide il calamaro con una lancia. Come ci è riuscito?
 
-   * Ha un’ottima destrezza
+   * Ha un'ottima destrezza
    * È stato solo un lancio fortunato
-   * Sapeva che era l’ultima lancia, quindi l’ha lanciata con molta cura
+   * Sapeva che era l'ultima lancia, quindi l'ha lanciata con molta cura
    * La fiducia del capitano gli ha dato il coraggio necessario
 
 5. Il finale rivela che Håkon

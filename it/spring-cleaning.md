@@ -33,7 +33,7 @@
 4. Pulivano i tappeti
 
    * strofinandoli
-   * usando l’aspirapolvere
+   * usando l'aspirapolvere
    * con asciugacapelli
    * con un panno speciale
 

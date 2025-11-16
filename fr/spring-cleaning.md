@@ -6,7 +6,7 @@
    * un appartement en location
    * leur propre maison
    * la maison de ses parents
-   * une chambre libre chez quelqu’un
+   * une chambre libre chez quelqu'un
 
 2. Chaque mois, Gérard
 
@@ -25,7 +25,7 @@
 
 3. La petite amie de Gérard a arrêté de lire ses lettres parce que
 
-   * Gérard ne cessait de l’interrompre
+   * Gérard ne cessait de l'interrompre
    * Gérard lui a pris ses lettres
    * elle voulait nettoyer le logement
    * elle était désolée de gêner
@@ -33,7 +33,7 @@
 4. Ils nettoient les tapis
 
    * en les frottant
-   * avec l’aspirateur
+   * avec l'aspirateur
    * avec des sèche-cheveux
    * avec un chiffon spécial
 

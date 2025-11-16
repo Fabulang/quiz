@@ -21,15 +21,15 @@
    * la cage tombe
    * il saute des mains de la fille
 
-4. Élie demande si sa mère l’aime, parce que
+4. Élie demande si sa mère l'aime, parce que
 
-   * il veut qu’elle l’aide
+   * il veut qu'elle l'aide
    * il se sent peu sûr de lui
-   * il craint d’avoir des ennuis
+   * il craint d'avoir des ennuis
 
-5. Le plan d’Élie est de
+5. Le plan d'Élie est de
 
    * mettre un nouveau hamster dans la cage
-   * utiliser un nouveau hamster pour retrouver l’ancien
+   * utiliser un nouveau hamster pour retrouver l'ancien
    * retrouver le hamster rapidement
-   * raconter à la professeure ce qui s’est passé
+   * raconter à la professeure ce qui s'est passé

@@ -23,9 +23,9 @@
 3. Si scopre che la sfera di cristallo è elettronica, e i suoi consigli
 
    * non si basano su nulla
-   * si basano sull’ora del giorno
+   * si basano sull'ora del giorno
    * provengono da Internet
-   * sono trasmessi da un’azienda
+   * sono trasmessi da un'azienda
 
 4. Questa scoperta rende Noemi felice, perché significa che
 

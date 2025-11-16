@@ -9,8 +9,8 @@
 
 2. Quando i vicini parlano di rose e margherite, il signor Tommaso pensa
 
-   * che “rose” e “margherite” abbiano un significato nascosto
-   * che “rose” e “margherite” siano delle password
+   * che "rose" e "margherite" abbiano un significato nascosto
+   * che "rose" e "margherite" siano delle password
    * che stiano fingendo di essere persone normali
    * che sappiano che lui li sta ascoltando
 

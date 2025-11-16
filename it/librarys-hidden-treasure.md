@@ -14,7 +14,7 @@
    * che dovrebbe leggere più spesso
    * dove si trova un tesoro sepolto
 
-3. L’ultimo biglietto dice a Edoardo
+3. L'ultimo biglietto dice a Edoardo
 
    * di continuare a leggere libri
    * di tornare in biblioteca

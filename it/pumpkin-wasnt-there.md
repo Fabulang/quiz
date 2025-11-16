@@ -3,9 +3,9 @@
 
 1. La gigantesca zucca di Arnoldo è scomparsa, e lui sospetta
 
-   * che il suo vicino l’abbia presa
-   * che il suo vicino l’abbia mangiata
-   * che il suo vicino l’abbia distrutta
+   * che il suo vicino l'abbia presa
+   * che il suo vicino l'abbia mangiata
+   * che il suo vicino l'abbia distrutta
 
    perché vede che
 
@@ -16,9 +16,9 @@
 2. Il vicino di Arnoldo
 
    * insulta Arnoldo
-   * è profondamente turbato dall’accusa
+   * è profondamente turbato dall'accusa
    * rientra in casa infuriato
-   * consegna ad Arnoldo un premio per “la peggior verdura”
+   * consegna ad Arnoldo un premio per "la peggior verdura"
 
 3. Il cane di Arnoldo
 

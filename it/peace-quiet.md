@@ -31,16 +31,16 @@
    * si è sposato
    * ha comprato un nuovo appartamento
 
-5. Alla fine, c’è un gatto nero e un gatto fulvo. Il gatto fulvo
+5. Alla fine, c'è un gatto nero e un gatto fulvo. Il gatto fulvo
 
    * è lo stesso gatto del
    * è il figlio del
    * è il fratello o la sorella del
    * è il genitore del
 
-   gattino dell’inizio.
+   gattino dell'inizio.
 
-6. Qual è stato il risultato dell’esperienza di Roberto con il gatto?
+6. Qual è stato il risultato dell'esperienza di Roberto con il gatto?
 
    * È diventato una persona più aperta e affettuosa
    * Ha imparato a controllare i gatti

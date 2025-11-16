@@ -1,7 +1,7 @@
 ---
 ---
 
-1. L'école a un problème :
+1. L'école a un problème:
 
    * elle dépense trop d'argent
    * les élèves échouent en sciences

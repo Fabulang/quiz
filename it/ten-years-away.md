@@ -18,7 +18,7 @@
 3. Perché il cameriere porta a Giuseppina la zuppa di pomodoro?
 
    * Ha sbagliato
-   * Lei l’ha ordinata per sbaglio
+   * Lei l'ha ordinata per sbaglio
    * Sta cercando di irritarla
    * È una zuppa locale speciale
 
@@ -26,7 +26,7 @@
 
    * Per tirarle su il morale
    * Perché è offerto dalla casa
-   * Lei l’ha ordinato
+   * Lei l'ha ordinato
    * Sa che è il suo preferito
 
 5. Perché Giuseppina è felice alla fine?

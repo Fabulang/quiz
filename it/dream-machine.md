@@ -31,7 +31,7 @@
 
    se
 
-   * lei rivela che il Governatore l’ha visitata
+   * lei rivela che il Governatore l'ha visitata
    * lei guarda il sogno del Governatore
    * lei non distrugge il sogno del Governatore
 
@@ -42,7 +42,7 @@
    * deve metterlo in cassaforte il prima possibile
    * è arrabbiata per come è stata trattata
 
-6. L’hacker vuole rovinare il Governatore
+6. L'hacker vuole rovinare il Governatore
 
    * mostrando alla città ciò che il Governatore sogna
    * rivelando che il Governatore paga per i sogni

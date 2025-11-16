@@ -24,7 +24,7 @@
 
 4. Nel futuro, il direttore di *I nostri tempi* è
 
-   * un’intelligenza artificiale
+   * un'intelligenza artificiale
    * un dinosauro
    * un alieno
    * una macchina
