@@ -37,7 +37,7 @@
 
 5. The ending shows us that
 
-   * Gabrielle hasn't given up on her novel.
-   * The world of Gabrielle's novel is a real place she can visit.
-   * Gabrielle has written a situation that can't be resolved.
-   * Gabrielle has decided how to finish the novel.
+   * Gabrielle hasn't given up on her novel
+   * the world of Gabrielle's novel is a real place she can visit
+   * Gabrielle has written a situation that can't be resolved
+   * Gabrielle has decided how to finish the novel

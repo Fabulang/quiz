@@ -8,18 +8,18 @@
    * it's a punishment
    * he wants to
 
-2. Elijah take the hamster out of the cage because
+2. Elijah takes the hamster out of the cage because
 
-   * The girl asks him to
-   * He needs to feed it
-   * He wants to hold it
+   * the girl asks him to
+   * he needs to feed it
+   * he wants to hold it
 
 3. The hamster escapes because
 
-   * It bites the girl
-   * The girl puts it on the floor
-   * The cage falls down
-   * It jumps from the girl's hands
+   * it bites the girl
+   * the girl puts it on the floor
+   * the cage falls down
+   * it jumps from the girl's hands
 
 4. Elijah asks if his mum loves him, because
 
