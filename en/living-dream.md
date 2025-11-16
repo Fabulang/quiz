@@ -21,7 +21,7 @@
    * making a cocktail
    * staring out to sea
 
-3. Grace and Tom enjoy
+3. During the experience, Grace and Tom enjoy
 
    * delicious food from around the world
    * relaxing spa treatments
