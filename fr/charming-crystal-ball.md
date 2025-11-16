@@ -31,5 +31,5 @@
 
    * que son petit ami l’aime pour ce qu’elle est
    * qu’elle peut se réconcilier avec son petit ami
-   * qu’elle veut arrêter d’utiliser la boule de cristal
+   * qu’elle peut arrêter d’utiliser la boule de cristal
    * que la boule de cristal n’est pas magique

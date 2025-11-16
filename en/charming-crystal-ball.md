@@ -31,5 +31,5 @@
 
    * her boyfriend likes her for who she is
    * she can reconcile with her boyfriend
-   * she wants to stop using the crystal ball
+   * she can stop using the crystal ball
    * the crystal ball isn't magical

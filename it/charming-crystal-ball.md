@@ -31,5 +31,5 @@
 
    * il suo ragazzo la apprezza per ciò che è
    * può riconciliarsi con il suo ragazzo
-   * vuole smettere di usare la sfera di cristallo
+   * può smettere di usare la sfera di cristallo
    * la sfera di cristallo non è magica
