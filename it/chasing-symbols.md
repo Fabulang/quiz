@@ -21,13 +21,13 @@
    * deve tornare sulla Terra
    * ha in programma di esplorare la sezione sud-orientale delle grotte
    * deve portare a termine la sua missione
-   * deve fare domanda per altri finanziamenti, così può restare
+   * deve fare domanda per altri finanziamenti, così può restare su Marte
 
 4. Filippa trova un simbolo strano. Il simbolo
 
    * assomiglia un po' a una freccia
    * ricorda una mano
-   * è intricato e complesso -- segni di vita intelligente
+   * è intricato e complesso: indica segni di vita intelligente
    * sembra far parte di una lingua aliena
 
 5. Filippa segue il simbolo nelle grotte e trova
@@ -35,7 +35,7 @@
    * la prova che in passato su Marte vivevano gli alieni
    * una porta segreta che conduce a una caverna
    * una stanza con scritte aliene incise sui muri
-   * nulla -- il simbolo non significa niente
+   * nulla: il simbolo non significa niente
 
    ma
 

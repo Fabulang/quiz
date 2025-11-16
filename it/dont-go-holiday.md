@@ -26,7 +26,7 @@
    * lascia il suo impiego
    * trova un nuovo lavoro
 
-   come scienziata che fa ricerche su
+   È una scienziata che fa ricerche su
 
    * i viaggi nel tempo
    * il teletrasporto

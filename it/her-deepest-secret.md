@@ -4,7 +4,7 @@
 1. La madre di Luigi vuole che lui stia zitto perché
 
    * sta rivelando i segreti del dipinto
-   * si sta comportando male e facendo troppo rumore
+   * si sta comportando male e sta facendo troppo rumore
    * non è una brava madre
    * non si rende conto che gli altri turisti sono interessati
 

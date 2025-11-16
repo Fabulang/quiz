@@ -4,7 +4,7 @@
 1. Gabrielle écrit un roman fantastique à propos de
 
    * une menace venant d'un puissant agresseur
-   * la possibilité qu'Éravon épouse la Princesse
+   * la possibilité qu'Eravon épouse la Princesse
    * une bataille entre les dieux
    * un joyau magique perdu
 
@@ -21,12 +21,12 @@
    * elle a perdu l'intérêt pour sa propre histoire
    * écrire un roman lui demande trop de travail
 
-3. Son héros, Éravon, affronte son ennemi, Moros, mais
+3. Son héros, Eravon, affronte son ennemi, Moros, mais
 
-   * Éravon se rend
+   * Eravon se rend
    * la Princesse est tuée
    * Moros s'enfuit
-   * Éravon laisse tomber son arc
+   * Eravon laisse tomber son arc
 
 4. Gabrielle affronte Moros dans son rêve, et
 

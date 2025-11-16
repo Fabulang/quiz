@@ -16,10 +16,10 @@
 
 3. Il padre di Lorenzo ha lasciato un testamento che
 
-   * assegnava un oggetto a ciascun figlio
-   * lasciava molti soldi ai suoi figli
-   * destinava tutto alla ricerca medica
-   * non lasciava nulla ai suoi figli
+   * assegna un oggetto a ciascun figlio
+   * lascia molti soldi ai suoi figli
+   * destina tutto alla ricerca medica
+   * non lascia nulla ai suoi figli
 
 4. L'amico di Lorenzo rivela che
 

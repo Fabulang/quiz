@@ -23,11 +23,11 @@
 
 4. Il fantasma infesta la scuola perché
 
-   * la sua insegnante gli ha detto che non poteva andarsene
-   * odiava la sua insegnante
+   * il suo insegnante gli ha detto che non poteva andarsene
+   * odiava il suo insegnante
    * era scarso in matematica
-   * amava così tanto la scuola
-   * la sua insegnante gli ha detto di contare fino a un numero altissimo
+   * amava tantissimo la scuola
+   * il suo insegnante gli ha detto di contare fino a un numero altissimo
    * si sentiva solo a scuola
 
 5. Come fa la signorina Acciaio a far andare via il fantasma?

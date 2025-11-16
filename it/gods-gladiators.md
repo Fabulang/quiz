@@ -15,7 +15,7 @@
    * È sempre fortunata
    * Vince sempre quando gioca d'azzardo
 
-   Ma ha dovuto pagare un prezzo:
+   Ma Lucia ha dovuto pagare un prezzo:
 
    * Non può mai mentire
    * Sarà sempre una schiava
@@ -52,7 +52,7 @@
 
    Se vince il padrone, riceverà
 
-   * tutto ciò che possiede l'amico
+   * tutto ciò che l'amico possiede
    * grande onore e rispetto
    * una grossa somma di denaro
    * la casa dell'amico
