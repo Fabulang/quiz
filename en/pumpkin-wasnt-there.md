@@ -37,5 +37,5 @@
 
    * how Arnold won his prize
    * how the neighbour won the competition
-   * the size of the neigbour's aubergine
+   * the size of the neighbour's aubergine
    * the size of Arnold's pumpkin
