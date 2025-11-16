@@ -13,7 +13,7 @@
    * he's famous throughout the area
    * she read about him online
    * he invited her
-   * 
+   * they're good friends
 
 3. Mr Chen won't tell Roxanne his recipe unless
 

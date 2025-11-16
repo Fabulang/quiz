@@ -32,4 +32,4 @@
    * Snobbery vs Authenticity
    * What tastes good vs What's good for you
    * Marketing claims vs What products are actually like
-   * Being fashionable vs Being yourself
+   * Being fashionable vs Expressing yourself
