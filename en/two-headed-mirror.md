@@ -17,10 +17,10 @@
 
 3. Amelia's reflection claims to be the real Amelia. What happens next?
 
-   * They both inspect each other carefully.
-   * They both want the other one to disappear.
-   * One of them is rude to the other.
-   * One of them tries to cross through the mirror.
+   * They both inspect each other carefully
+   * They both want the other one to disappear
+   * One of them is rude to the other
+   * One of them tries to cross through the mirror
 
 4. Amelia thinks of a way to prove who is real, and who is a reflection:
 
