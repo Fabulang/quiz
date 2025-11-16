@@ -3,9 +3,9 @@
 
 1. Nicoletta lavora per una grande azienda. Lei
 
-   * non riesce a immaginare di lavorare altrove
-   * apprezza il lavoro, anche se è impegnativo
-   * spera di ottenere prima o poi un aumento
+   * non pensa che ci sia un lavoro migliore
+   * apprezza il lavoro, anche se è difficile
+   * prima o poi riceverà un aumento di stipendio
 
 2. Il lavoro offre
 

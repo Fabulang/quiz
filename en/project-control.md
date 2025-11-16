@@ -3,9 +3,9 @@
 
 1. Nicole works for a large corporation. She
 
-   * can't imagine working somewhere else
+   * doesn't think a better job is available
    * likes the job, even though the work is difficult
-   * looks forward to getting a pay-rise eventually
+   * is going to get a pay-rise eventually
 
 2. The job pays
 

@@ -3,9 +3,9 @@
 
 1. Colette travaille pour une grande entreprise. Elle
 
-   * ne peut pas imaginer travailler ailleurs
-   * apprécie ce poste, même si le travail est difficile
-   * espère obtenir une augmentation un jour
+   * ne pense pas qu'un meilleur poste soit disponible
+   * aime son travail, même si les tâches sont difficiles
+   * va finir par obtenir une augmentation
 
 2. Le poste offre
 
