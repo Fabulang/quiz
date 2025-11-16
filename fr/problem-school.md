@@ -8,7 +8,7 @@
    * la dernière personne entrée dans l'école a été blessée
    * il a peur du noir
 
-2. Quel est le métier de Mlle Acier ?
+2. Quel est le métier de Mlle Acier?
 
    * Chasseuse de fantômes professionnelle
    * Enseignante à l'école
@@ -30,7 +30,7 @@
    * son professeur lui avait demandé de compter jusqu'à un nombre très élevé
    * il se sentait seul à l'école
 
-5. Comment Mlle Acier fait-elle partir le fantôme ?
+5. Comment Mlle Acier fait-elle partir le fantôme?
 
    * Elle l'aide à terminer son travail
    * Elle utilise les objets dans son sac pour le faire partir

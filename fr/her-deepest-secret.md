@@ -21,7 +21,7 @@
    * le guide touristique
    * un artiste inconnu
 
-4. Quel est le véritable secret ?
+4. Quel est le véritable secret?
 
    * Louis et sa mère sont des vampires
    * Louis et sa mère sont des fantômes

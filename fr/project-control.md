@@ -29,7 +29,7 @@
 
    * appuyer sur les boutons pour lancer un compte à rebours de dix minutes
    * relier les fils aux tubes rouges
-   * saisir le code « quatre deux sept huit »
+   * saisir le code «quatre deux sept huit»
 
    Mais elle se réveille alors. Elle était en train de rêver.
 

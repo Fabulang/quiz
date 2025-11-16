@@ -27,7 +27,7 @@
 
    * ressemble un peu à une flèche
    * ressemble un peu à une main
-   * est complexe et détaillé -- signe d'une vie intelligente
+   * est complexe et détaillé: signe d'une vie intelligente
    * semble faire partie d'une langue extraterrestre
 
 5. Philippine suit le symbole dans les grottes, et découvre
@@ -35,7 +35,7 @@
    * une preuve que des extraterrestres ont vécu sur Mars autrefois
    * une porte secrète menant à une caverne
    * une salle dont les murs sont couverts d'inscriptions extraterrestres
-   * rien -- le symbole ne signifie rien
+   * rien: le symbole ne signifie rien
 
    mais
 
