@@ -16,7 +16,7 @@
    * built a school in the town
    * bought the town
 
-3. The Fairfields' left a gift to the town in their vault:
+3. The Fairfields left a gift to the town in their vault:
 
    * A lot of money
    * A valuable collection of portrait paintings
