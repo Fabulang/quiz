@@ -15,7 +15,7 @@
    * préparant le plat à sa place
    * lui offrant une réduction à la caisse
 
-3. Le patron de Joseph n'est pas content parce que
+3. La cheffe de Joseph n'est pas contente parce que
 
    * il a apporté une aide supplémentaire à l'homme
    * il n'a pas assez fait payer l'homme
@@ -27,4 +27,4 @@
    * a été impressionné par la recette de Joseph
    * veut que Joseph devienne son assistant personnel
    * offre à Joseph une voiture de luxe
-   * dit à Joseph de ne plus parler à son patron
+   * dit à Joseph de ne plus parler à sa cheffe

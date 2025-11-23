@@ -42,4 +42,4 @@
    * elle est piégée et meurt dans la grotte
    * personne ne la croira
    * les preuves sont détruites
-   * elle est perdue et risque de ne plus pouvoir ressortir
+   * elle s'est perdue et risque de ne plus pouvoir ressortir

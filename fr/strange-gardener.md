@@ -14,7 +14,7 @@
    * qu'ils font semblant d'être des gens ordinaires
    * qu'ils savent qu'il écoute
 
-3. Une équipe de télévision arrive chez les voisins, parce que les voisins
+3. Une équipe de télévision arrive chez les voisins, parce qu'ils
 
    * participent à une émission de télévision
    * sont les animateurs d'une émission de télévision

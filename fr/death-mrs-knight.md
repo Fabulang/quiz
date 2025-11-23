@@ -4,7 +4,7 @@
 1. M. Chevalier a tué sa femme, parce qu'elle était
 
    * riche
-   * en train de ruiner ses affaires
+   * en train de détruire son entreprise
    * obsédée par son entreprise
    * infidèle
 
@@ -29,7 +29,7 @@
    * il a entendu quelqu'un ouvrir la porte du bureau
    * il n'a aucune idée de la manière dont Mme Chevalier est morte
 
-5. Le détective résout l'affaire en
+5. L'inspectrice résout l'affaire en
 
    * sentant le manche du couteau
    * observant attentivement le couteau

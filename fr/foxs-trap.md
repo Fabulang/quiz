@@ -14,21 +14,21 @@
    * il a pitié d'elle
    * il aime jouer avec ses émotions d'abord
 
-   donc il
+   alors il
 
-   * invente une histoire
-   * lui raconte
+   * invente une histoire au sujet
+   * lui révèle l'existence
 
-   à propos d'un lac magique et propose de l'y emmener.
+   d'un lac magique et propose de l'y emmener.
 
 3. Mlle Souris
 
-   * comprend que c'est un piège et décide de tromper le renard
+   * comprend que c'est un piège, et décide de piéger le renard
    * est enthousiaste à l'idée de visiter le lac magique
    * croit M. Renard parce qu'elle est vulnérable
-   * n'est pas assez maligne pour comprendre le piège
+   * n'est pas assez futée pour comprendre que c'est un piège
 
-4. Elle quitte sa maison, mais M. Renard ne la mange pas, parce que
+4. Elle sort de sa maison, mais M. Renard ne la mange pas, parce que
 
    * il veut aussi manger sa famille
    * il lui a promis de ne pas le faire
@@ -37,7 +37,7 @@
 
 5. M. Renard se coince la patte dans un piège parce que
 
-   * Mlle Souris l'a poussé à courir dedans
-   * ils ne connaissaient pas vraiment le chemin
-   * ils discutaient, donc M. Renard était distrait
-   * il avait soif, il ne l'a donc pas vu
+   * c'est là que Mlle Souris l'a amené
+   * ils ne connaissaient pas réellement le chemin
+   * comme ils discutaient, M. Renard ne faisait pas attention
+   * il avait tellement soif qu'il ne l'a pas vu

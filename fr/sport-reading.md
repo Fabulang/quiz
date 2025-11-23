@@ -15,7 +15,7 @@
 
 3. Lilie
 
-   * récupère
+   * ramasse
    * vole
    * emprunte
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-1. M. Gris est accusé de
+1. M. Gris est accusé
 
    * d'avoir volé un objet inestimable
    * d'avoir volé quatre-vingts meules de fromage
@@ -15,7 +15,7 @@
    * a déjà volé de nombreux objets similaires
    * est un criminel dangereux et violent
 
-3. L'avocate de M. Gris dit que M. Gris
+3. L'avocate de M. Gris dit qu'il
 
    * est un criminel repenti
    * avait réglé sa dette, donc n'avait pas besoin d'argent

@@ -3,12 +3,12 @@
 
 1. La boule de cristal donne à Noémie des conseils sur
 
-   * la romance et la mode
-   * la romance et le shopping
+   * l'amour et la mode
+   * l'amour et le shopping
    * la mode et le tourisme
    * le shopping et le tourisme
 
-   et lorsque Noémie suit ces conseils,
+   et lorsque Noémie suit ses conseils,
 
    * tout se passe bien
    * tout se passe mal

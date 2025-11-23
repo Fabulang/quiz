@@ -1,10 +1,10 @@
 ---
 ---
 
-1. Un touriste demande où se trouve *l'arrêt de bus des esprits*, parce que
+1. Un touriste demande où se trouve *l'Arrêt de bus des esprits*, parce que
 
-   * il en a lu un article en ligne
-   * il en a entendu parler dans un dépliant
+   * il a lu un article à ce sujet en ligne
+   * il en a entendu parler dans une brochure
    * il sait qu'il est réputé dans toute la région
 
    mais

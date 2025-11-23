@@ -19,7 +19,7 @@
    * to continue reading books
    * to go back to the library
    * to find Professor Quill
-   * the location of the tresure
+   * the location of the treasure
 
 4. Professor Quill left the notes
 

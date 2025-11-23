@@ -7,7 +7,7 @@
    * a cambriolé la maison
    * a attaqué la maison
 
-2. Nicolas commence à inspecter la maison, parce qu'il
+2. Nicolas commence à chercher dans la maison, parce qu'il
 
    * espère trouver des objets de valeur
    * espère trouver un message du pirate
@@ -21,9 +21,9 @@
    * elle cherche elle aussi le trésor
    * elle veut l'argent de Nicolas
 
-4. Pourquoi n'y a-t-il pas de pièces d'or dans la boîte en bois?
+4. Pourquoi n'y a-t-il pas de pièces d'or dans la boite en bois?
 
-   * La boîte n'a aucun lien avec le pirate
+   * La boite n'a aucun lien avec le pirate
    * La femme a déjà pris les pièces d'or
    * La lettre à l'intérieur explique où trouver l'or
    * Ils se sont tous les deux trompés

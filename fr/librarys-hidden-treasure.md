@@ -8,7 +8,7 @@
    * lit trop
    * ne sait pas lire
 
-2. Édouard trouve des notes dans les livres. Les notes lui disent
+2. Édouard trouve des notes dans des livres. Les notes lui indiquent
 
    * d'aller quelque part dans la ville
    * qu'il devrait lire plus souvent
@@ -18,17 +18,17 @@
 
    * de continuer à lire des livres
    * de retourner à la bibliothèque
-   * de trouver le professeur Penne
+   * de trouver la professeur Penne
    * où se trouve le trésor
 
-4. Le professeur Penne a laissé les notes
+4. La professeur Penne a laissé les notes
 
    * pour encourager Édouard à lire
    * pour éviter qu'Édouard ne s'ennuie
    * pour s'assurer qu'Édouard mérite le trésor
    * par accident
 
-5. À cause des notes, Édouard
+5. Grâce aux notes, Édouard
 
    * apprend à aimer la lecture
    * devient riche

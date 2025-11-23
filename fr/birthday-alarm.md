@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Marguérite est en colère contre Georges parce qu'il
+1. Marguerite est en colère contre Georges parce qu'il
 
    * oublie toujours son anniversaire
    * est toujours absorbé par son travail
@@ -13,7 +13,7 @@
    * Georges pense qu'il est l'heure de partir travailler
    * Georges oublie que c'est pour l'anniversaire de sa femme
 
-3. Marguérite se rend au bureau de Georges,
+3. Marguerite se rend au bureau de Georges,
 
    * pour lui dire qu'elle est fâchée
    * pour assister à sa fête d'anniversaire
@@ -22,6 +22,6 @@
 
 4. Il s'avère que
 
-   * Georges prépare sa fête depuis un moment
-   * à la dernière minute, Georges se souvient que c'est son anniversaire
-   * les amis de Marguérite ont organisé une fête pour elle
+   * Georges préparait sa fête depuis un moment
+   * Georges s'est souvenu que c'était son anniversaire à la dernière minute
+   * les amis de Marguerite ont organisé une fête pour elle

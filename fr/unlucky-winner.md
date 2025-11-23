@@ -9,15 +9,15 @@
 
 2. Lucie pense qu'elle sera heureuse si
 
-   * elle gagne à la loterie
+   * elle gagne au loto
    * elle passe à la télévision
    * elle devient célèbre
 
 3. Lucie perd beaucoup d'argent, parce que
 
    * elle est trop généreuse
-   * elle achète une maison qu'elle ne peut pas se permettre
-   * elle commence à jouer aux jeux d'argent
+   * elle achète une maison trop chère pour elle
+   * elle commence à jouer à des jeux d'argent
    * elle paie pour passer à la télévision
 
 4. À la fin, les gens comprennent que Lucie veut simplement

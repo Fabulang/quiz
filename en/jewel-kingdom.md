@@ -21,7 +21,7 @@
    * she's lost interest in her own story
    * writing a novel is too much work
 
-3. Her hero, Eravon, confonts his enemy, Moros, but
+3. Her hero, Eravon, confronts his enemy, Moros, but
 
    * Eravon surrenders
    * the Princess is killed

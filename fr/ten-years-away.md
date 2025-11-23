@@ -20,7 +20,7 @@
    * Il s'est trompé
    * Elle l'a commandée par erreur
    * Il essaie de la contrarier
-   * C'est une soupe locale spéciale
+   * C'est une spécialité locale
 
 4. Pourquoi le serveur lui apporte-t-il un dessert?
 

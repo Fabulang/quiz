@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Édith n'aime pas le boulanger robot parce que
+1. Édith n'aime pas le robot-boulanger parce que
 
    * elle préfère les interactions humaines
    * elle a peur qu'il la blesse
@@ -13,7 +13,7 @@
    * refuse d'accepter l'argent liquide
    * tente de scanner sa carte bancaire
    * l'attaque avec un outil pointu
-   * se met à se tromper
+   * a quitté le magasin sans rien dire d’autre
 
 3. Quand Édith se plaint, le robot
 
@@ -32,6 +32,6 @@
 5. Le boulanger est mécontent parce que
 
    * il ne peut pas partir en vacances
-   * il n'a pas de microchip dans la tête
+   * il n'a pas de puce électronique dans la tête
    * le robot n'a pas bien travaillé
    * Édith est mécontente

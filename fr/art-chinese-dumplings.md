@@ -27,11 +27,11 @@
    * est devenue très amie avec M. Chen
    * est agacée que M. Chen n'ait toujours pas révélé son secret
    * a compris la recette de M. Chen
-   * ne veuille plus manger de raviolis
+   * ne veux plus manger de raviolis
 
 5. M. Chen révèle son secret:
 
    * pratiquer, pratiquer, pratiquer
    * préparer beaucoup de raviolis en une seule fois
    * utiliser des ingrédients frais du jardin
-   * il a testé plus de 100 000 combinaisons d'ingrédients
+   * il a testé plus de 100 000 combinaisons d'ingrédients

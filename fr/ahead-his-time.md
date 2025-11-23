@@ -1,12 +1,12 @@
 ---
 ---
 
-1. La revue scientifique *Nos Époques* rejette le travail de Charles, parce que
+1. La revue scientifique *Notre Époque* rejette le travail de Charles, parce que
 
    * ses idées sont trop avancées
    * ses idées n'ont aucun sens
    * ses idées sont dangereuses
-   * ils ne croient pas au voyage dans le temps
+   * elle ne croit pas au voyage dans le temps
 
 2. Charles voyage dans le futur, parce que
 
@@ -22,7 +22,7 @@
    * peuvent devenir invisibles
    * peuvent voler
 
-4. Dans le futur, le rédacteur en chef de *Nos Époques* est
+4. Dans le futur, le rédacteur en chef de *Notre Époque* est
 
    * une intelligence artificielle
    * un dinosaure

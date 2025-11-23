@@ -18,13 +18,13 @@
    parce que
 
    * elle souffre du syndrome de la page blanche
-   * elle a perdu l'intérêt pour sa propre histoire
+   * elle s'est désintéressée de sa propre histoire
    * écrire un roman lui demande trop de travail
 
 3. Son héros, Eravon, affronte son ennemi, Moros, mais
 
    * Eravon se rend
-   * la Princesse est tuée
+   * la Princesse se fait tuer
    * Moros s'enfuit
    * Eravon laisse tomber son arc
 
@@ -33,11 +33,11 @@
    * Moros prend la fuite
    * elle le tue
    * l'épée de Moros se brise
-   * elle utilise la magie pour le faire disparaître
+   * elle utilise la magie pour le faire disparaitre
 
 5. La fin nous montre que
 
-   * Gabrielle n'a pas abandonné son roman
+   * Gabrielle n'a pas renoncé à son roman
    * le monde du roman de Gabrielle est un lieu réel qu'elle peut visiter
    * Gabrielle a créé une situation impossible à résoudre
-   * Gabrielle a décidé comment terminer le roman
+   * Gabrielle a choisi comment terminer le roman

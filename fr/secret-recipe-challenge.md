@@ -12,7 +12,7 @@
 
    * demander conseil à d'autres chefs
    * lire les livres de cuisine de M. Forestier
-   * observer M. Forestier en secret
+   * espionner M. Forestier
    * pirater l'ordinateur de M. Forestier
 
    mais cela ne l'aide pas.
@@ -35,5 +35,5 @@
 
    * a fait preuve de dévouement
    * a réussi le gâteau aux fruits à la perfection
-   * possède une excellente connaissance des ingrédients
-   * a raté l'épreuve, mais n'a pas abandonné
+   * possède une excellente connaissance des différents ingrédients
+   * a raté le défi, mais n'a pas abandonné

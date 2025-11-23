@@ -8,7 +8,7 @@
    * ennuyeuses
    * fatigantes
 
-2. Denis craint que son professeur soit fâché, parce que
+2. Denis a peur que son professeur se fâche, parce que
 
    * il n'a pas fait ses devoirs
    * ses réponses sont toutes fausses

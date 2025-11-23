@@ -18,7 +18,7 @@
 
 3. Chez Xeep, Félicie
 
-   * est émerveillée par à quel point tout est différent
+   * est émerveillée que tout soit si différent
    * se sent immédiatement chez elle
    * a peur de toucher quoi que ce soit
    * ne trouve pas la salle de bains

@@ -10,21 +10,21 @@
 
 2. François décide
 
-   * sur le moment
+   * immédiatement
    * après mûre réflexion
 
    d'essayer un autre type d'humour.
 
 3. Il raconte une blague à propos
 
-   * de ne pas être très séduisant
-   * de la manière dont il chante mal
+   * du fait ne pas être très séduisant
+   * de sa manière de chanter faux
    * d'une glissade dans la salle de bains
    * d'un miroir qu'il a cassé
 
 4. François se rend compte
 
    * que les gens aiment sa personnalité
-   * qu'il est un humoriste exceptionnel
+   * que c'est un humoriste exceptionnel
    * qu'il doit rester fidèle aux imitations
    * qu'il devrait arrêter l'humour et devenir une pop star

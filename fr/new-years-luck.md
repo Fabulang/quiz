@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Alexandre est dans un vaisseau spatial, se sentant
+1. Alexandre est dans un vaisseau spatial et il se sent
 
    * déprimé
    * affamé
@@ -37,12 +37,12 @@
 
    * recharge les batteries du vaisseau
    * propulse le vaisseau vers la Terre
-   * endommage encore davantage le vaisseau
+   * endommage encore plus le vaisseau
    * détruit les panneaux solaires
 
 5. À la fin, Alexandre se sent chanceux, parce que
 
    * il a de bons amis dans le vaisseau spatial
    * il a vu un spectacle incroyable et improbable
-   * ils vont survivre finalement
+   * ils vont finalement survivre
    * l'équipage respecte son expertise

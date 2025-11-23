@@ -21,7 +21,7 @@
    * un groupe religieux strict
    * l'armée
 
-4. Les amis de Henriette prévoient de s'évader, mais elle ne peut pas les accompagner car elle pense
+4. Les amis d'Henriette prévoient de s'évader, mais elle ne peut pas les accompagner car elle pense
 
    * qu'elle est trop lente
    * qu'elle n'est pas assez forte
@@ -38,5 +38,5 @@
    et elle sourit parce que
 
    * elle sait que ses amis vont réussir à fuir
-   * elle a accepté qu'elle ne s'échappera jamais
+   * elle a accepté l'idée qu'elle ne s'échappera jamais
    * elle a perdu la raison

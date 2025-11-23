@@ -1,13 +1,13 @@
 ---
 ---
 
-1. Le Maire de la ville démissionne, car
+1. Le maire de la ville démissionne, car
 
    * il s'enfuit avec les richesses de la ville
    * il est triste d'avoir mal dirigé
    * il ne sait pas comment résoudre les problèmes de la ville
    * il pense que les habitants ne veulent plus de lui
-   * il est un imposteur
+   * c'est un imposteur
 
 2. Autrefois, une famille riche appelée les Beauchamp
 
@@ -29,16 +29,16 @@
    * quatre-vingt-dix-neuf ans à partir d'aujourd'hui
    * la mort du dernier descendant des Beauchamp
 
-4. Le Maire propose d'ouvrir le coffre car
+4. Le maire propose d'ouvrir le coffre car
 
    * il ne veut pas qu'on découvre qu'il l'a déjà ouvert
    * c'est un moyen d'aider la ville
-   * c'est au Maire de le faire
+   * c'est au maire de le faire
    * il espère pouvoir entrer le premier et empêcher les autres d'y accéder
 
 5. À l'intérieur, ils ne trouvent rien de valeur matérielle, car
 
-   * le Maire a déjà pris ce qui avait de la valeur
+   * le maire a déjà pris ce qui avait de la valeur
    * l'amour vaut plus que l'argent
-   * le Maire a déjà utilisé l'argent pour financer la fête de la bière
+   * le maire a déjà utilisé l'argent pour financer la fête de la bière
    * des voleurs se sont déjà servis

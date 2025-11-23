@@ -10,12 +10,12 @@
 
 2. Elpidios veut devenir athlète olympique, mais
 
-   * les entraîneurs professionnels refusent de l'aider
+   * les entraineurs professionnels refusent de l'aider
    * il a trop peur d'échouer pour essayer
    * il n'a pas vraiment assez de talent
-   * il est trop paresseux pour s'entraîner correctement
+   * il est trop paresseux pour s'entrainer correctement
 
-3. Un vieil homme aide Elpidios à s'entraîner, en échange de
+3. Un vieil homme aide Elpidios à s'entrainer, en échange de
 
    * nourriture et d'amitié
    * places au premier rang pour la course
@@ -26,18 +26,18 @@
 
    * il est clair que les autres concurrents sont bien plus riches
    * il se sent gêné et souhaite que le vieil homme parte
-   * il n'a pas les vêtements appropriés
-   * il est tellement nerveux qu'il ne profite pas du moment
+   * il n'a pas les vêtements qu'il faut
+   * il est tellement nerveux qu'il ne profite pas de l'instant
 
 5. Il s'avère que le vieil homme
 
    * a été lui aussi athlète olympique, il y a de nombreuses années
-   * est un ancien entraîneur professionnel
+   * est un ancien entraineur professionnel
    * est le père d'Elpidios
 
 6. Le vieil homme encourage Elpidios
 
    * à ne pas renoncer à ses rêves
-   * à accepter la deuxième place comme le mieux qu'il puisse faire
+   * à accepter la deuxième place car c'est le mieux qu'il puisse faire
    * à se concentrer sur l'agriculture plutôt que sur la course
    * à faire moins d'erreurs
