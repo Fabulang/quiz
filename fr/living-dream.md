@@ -31,7 +31,7 @@
 4. À leur retour, Grâce et Thomas
 
    * trouvent que leur vie normale est ennuyeuse
-   * se sentent reconnaissants pour une expérience si merveilleuse
+   * se sentent reconnaissants de cette expérience si merveilleuse
    * emménagent dans une maison plus petite
    * essaient de s'améliorer en cuisine
 

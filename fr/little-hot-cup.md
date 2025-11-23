@@ -3,14 +3,14 @@
 
 1. Arianne travaille comme
 
-   * une comptable
-   * une barista
-   * une agente d'entretien
-   * une entrepreneuse
+   * comptable
+   * barista
+   * agente d'entretien
+   * entrepreneuse
 
-   mais cela ne lui plaît pas.
+   mais cela ne lui plait pas.
 
-2. Chaque jour, Arianne achète un café dans un café
+2. Tous les jours, Arianne achète un café dans un café
 
    * le matin
    * à midi
@@ -25,7 +25,7 @@
 3. Un jour, le café est fermé, parce que le propriétaire
 
    * n'a pas les moyens d'ouvrir
-   * n'a pas déposé les bons comptes
+   * n'a pas déposé correctement ses comptes
    * fait des travaux
    * a des problèmes de santé
 
@@ -35,5 +35,5 @@
 
    * elle travaille désormais au café
    * elle est devenue amie avec le propriétaire
-   * elle continue à lui donner des conseils
-   * elle l'aide pour sa comptabilité
+   * elle continue à donner des conseils au propriétaire
+   * elle aide le propriétaire pour sa comptabilité

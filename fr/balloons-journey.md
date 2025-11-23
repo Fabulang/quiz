@@ -15,7 +15,7 @@
 
    et une fois qu'il a commencé à monter
 
-   * il n'a plus pu s'arrêter
+   * il n'a pas pu s'arrêter
    * il a apprécié cela
    * cela ne lui a pas plu
 
@@ -35,6 +35,6 @@
 5. À la fin, le ballon se sent
 
    * triste
-   * grisé
+   * euphorique
    * éclairé
    * étourdi

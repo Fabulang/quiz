@@ -10,7 +10,7 @@
 
 2. Victoire n'aime pas vivre avec Jérémy parce que
 
-   * il met toujours de la musique
+   * il joue toujours de la musique
    * il joue très mal de la guitare
    * il est trop maniaque
    * il garde un âne dans l'appartement
@@ -24,7 +24,7 @@
 
 4. Le jour où elle part, lorsque le taxi de Victoire arrive,
 
-   * ils semblent tous les deux tristes de son départ
+   * ils semblent tous les deux tristes qu'elle parte
    * ils sont encore tous les deux en colère l'un contre l'autre
    * Victoire part aussi vite que possible
    * Jérémy lui demande de ne rien laisser derrière elle

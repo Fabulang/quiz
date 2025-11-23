@@ -5,7 +5,7 @@
 
    * il sait qu'il y a un fantôme dans l'école
    * il ne sait pas ce qu'il y a dans le sac de Mlle Acier
-   * la dernière personne entrée dans l'école a été blessée
+   * la dernière personne qui est entrée dans l'école a été blessée
    * il a peur du noir
 
 2. Quel est le métier de Mlle Acier?
@@ -13,7 +13,7 @@
    * Chasseuse de fantômes professionnelle
    * Enseignante à l'école
    * Enquêtrice spécialisée
-   * Pratiquante religieuse
+   * Praticienne religieuse
 
 3. À l'intérieur, Mlle Acier découvre un fantôme. Ce fantôme
 
@@ -26,7 +26,7 @@
    * son professeur lui a dit qu'il ne pouvait pas partir
    * il détestait son professeur
    * il était nul en maths
-   * il aimait tellement l'école
+   * il adorait l'école
    * son professeur lui avait demandé de compter jusqu'à un nombre très élevé
    * il se sentait seul à l'école
 

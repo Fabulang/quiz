@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Joseph prend l'ancien poste de Marc, parce que
+1. Joseph prend l'ancien travail de Marc, parce que
 
    * les gens pensent que Joseph fera un meilleur travail
    * les gens s'inquiètent pour la santé de Marc
@@ -15,12 +15,12 @@
    * Marc est toujours fatigué
    * les connaissances de Marc ne sont plus à jour
 
-3. Un criminel dangereux, surnommé «le Loup», arrive en ville pour
+3. Un criminel dangereux, surnommé "le Loup", arrive en ville pour
 
-   * voler les habitants
+   * voler les gens
    * tirer sur les gens
-   * effrayer les habitants
-   * enlever des personnes
+   * effrayer les gens
+   * enlever des gens
 
 4. Marc vainc le Loup, parce que
 
@@ -32,6 +32,6 @@
 5. Quelle est la morale de l'histoire?
 
    * Les personnes âgées ont une expérience précieuse
-   * Les personnes âgées doivent se rappeler de leurs limites
+   * Les personnes âgées doivent se souvenir de leurs limites
    * Travailler ensemble vaut mieux que travailler seul
    * Il faut toujours avoir un plan de secours

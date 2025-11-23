@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Fernand est en vacances, mais il marche en dormant! D'abord, il visite
+1. Fernand est en vacances, mais il est somnambule! D'abord, il visite
 
    * un glacier
    * une épicerie
@@ -24,10 +24,10 @@
 4. Quand Fernand se réveille, il est entouré de sacs pleins de
 
    * légumes
-   * glace
+   * glaces
    * souvenirs
 
-    parce que, pendant qu'il marchait en dormant, il a dû
+    parce que, pendant qu'il était somnambule, il a dû
 
    * demander au personnel de l'hôtel de les acheter pour lui
    * les acheter dans une épicerie

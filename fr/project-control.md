@@ -31,7 +31,7 @@
    * relier les fils aux tubes rouges
    * saisir le code «quatre deux sept huit»
 
-   Mais elle se réveille alors. Elle était en train de rêver.
+   C'est alors qu'elle se réveille. Elle était en train de rêver.
 
 6. Son responsable la licencie, et Colette comprend que
 

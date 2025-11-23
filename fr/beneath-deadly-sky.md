@@ -7,20 +7,20 @@
    * sous la mer
    * dans un bunker métallique
 
-   car un virus mortel s'est répandu dans toute l'atmosphère.
+   car un virus mortel s'est répandu dans l'atmosphère.
 
 2. Évelyne se concentre sur le développement
 
-   * d'un moyen d'éliminer le virus
+   * d'un moyen de se débarrasser le virus
    * d'un vaccin contre le virus
    * d'un traitement pour sauver les personnes contaminées
    * d'un meilleur système pour filtrer le virus
 
 3. En réalité, le virus a été créé par une entreprise, qui
 
-   * l'a conçu volontairement
+   * l'a créé volontairement
    * l'a créé par accident
-   * l'a accidentellement relâché depuis un laboratoire
+   * l'a accidentellement relâché d'un laboratoire
 
 4. L'entreprise a donné à certaines personnes une mutation génétique. Le virus était censé
 
@@ -29,7 +29,7 @@
    * tuer ces personnes
    * tuer tout le monde sauf ces personnes
 
-   Mais le virus n'a pas fonctionné. Finalement, il allait
+   Mais le virus n'a pas fonctionné. Au final, il allait
 
    * tuer ces personnes
    * tuer tout le monde sauf ces personnes

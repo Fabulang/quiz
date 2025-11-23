@@ -4,7 +4,7 @@
 1. Frédérique reçoit des messages étranges
 
    * sur son téléphone
-   * par email
+   * par e-mail
    * par courrier
 
 2. Les messages lui disent
@@ -24,7 +24,7 @@
 
    * reprend son travail
    * démissionne de son poste
-   * trouve un nouvel emploi
+   * trouve un nouveau travail
    
    en tant que scientifique travaillant sur
 

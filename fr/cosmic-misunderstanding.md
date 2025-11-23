@@ -33,5 +33,5 @@
 
    * ne reconnaît pas qu'elle avait tort
    * admet qu'elle avait tort
-   * accepte les félicitations de ses collègues avec grâce
+   * accepte volontiers les félicitations de ses collègues
    * est heureuse de revoir ses collègues

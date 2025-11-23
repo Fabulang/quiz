@@ -6,7 +6,7 @@
    * la foudre frappe sa montre
    * la foudre frappe l'horloge
    * la machine à café tombe en panne
-   * elle boit un café qui brille en bleu
+   * elle boit un café qui brille d'une couleur bleue
    * sa montre se dérègle et lui envoie une décharge
 
 2. Jeanne utilise son nouveau pouvoir pour
