@@ -19,7 +19,7 @@
    * un objet à chacun de ses enfants
    * beaucoup d'argent à ses enfants
    * tout son argent à la recherche médicale
-   * rien à ses enfants
+   * des conseils à ses enfants, et rien d’autre
 
 4. L'ami de Laurent révèle que
 
