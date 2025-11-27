@@ -1,10 +1,10 @@
 ---
 ---
 
-1. M. Chevalier a tué sa femme, parce qu'elle était
+1. Mme Chevalier a été tuée par son mari, parce qu'elle était
 
    * riche
-   * en train de détruire son entreprise
+   * en train de détruire l'entreprise de son mari
    * obsédée par son entreprise
    * infidèle
 

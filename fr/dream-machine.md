@@ -12,7 +12,7 @@
 
    * lui donnent l'un de leurs propres rêves
    * ne parlent pas du rêve qu'ils reçoivent
-   * paient un tarif fixe à l'avance
+   * paient un tarif fixé à l'avance
    * laissent leurs armes à l'extérieur
 
 3. Une fois connectés à la machine à rêves, combien de temps faut-il pour donner un rêve à quelqu'un?

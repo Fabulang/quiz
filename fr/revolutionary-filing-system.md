@@ -1,38 +1,38 @@
 ---
 ---
 
-1. Mme Boxeuse gronde Émile pour
+1. Mme Castagne gronde Émile parce qu'il
 
-   * être désorganisé
-   * être en désordre
-   * être peu aimable
-   * ne pas utiliser correctement ses stylos et crayons
+   * est désorganisé
+   * est sale
+   * est peu aimable
+   * n'utilise pas correctement ses stylos et crayons
 
    et dit qu'il ne recevra pas de promotion.
 
-2. Alors, Émile crée un système de classement qui
+2. Émile crée alors un système de classement
 
-   * est aussi complexe que possible
-   * est facile à comprendre
-   * paraît intelligent mais est en réalité aléatoire
-   * que seule Mme Boxeuse peut comprendre
+   * aussi complexe que possible
+   * facile à comprendre
+   * qui parait intelligent mais est en réalité aléatoire
+   * que seule Mme Castagne peut comprendre
 
-3. Mme Boxeuse est impressionnée par le système d'Émile, mais
+3. Mme Castagne est impressionnée par le système d'Émile, mais
 
-   * elle ne peut pas l'utiliser elle-même
+   * elle est incapable de l'utiliser elle-même
    * elle refuse de l'utiliser elle-même
    * elle essaie de le modifier
-   * elle continue de le traiter de désorganisé
+   * elle continue de lui dire qu'il est désorganisé
 
-4. Quand le PDG voit le système d'Émile, le PDG
+4. Quand Monsieur le Directeur prend connaissance du système d'Émile, il
 
    * promeut Émile
    * licencie Émile
-   * dit à Émile de le simplifier
+   * demande à Émile de le simplifier
 
-5. À la fin, Mme Boxeuse
+5. À la fin, Mme Castagne
 
-   * ne peut pas utiliser le système d'Émile sans Émile
+   * n'arrive toujours pas utiliser le système sans l'aide d'Émile
    * adopte le système d'Émile et le trouve utile
-   * modifie le système d'Émile, le rendant pire
+   * modifie le système d'Émile, en pire
    * est rétrogradée parce qu'elle est désorganisée

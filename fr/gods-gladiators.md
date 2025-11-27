@@ -24,7 +24,7 @@
 
 3. Lucia utilise son pouvoir pour aider son maître
 
-   * à tricher pendant les jeux d'argent
+   * à tricher aux jeux d'argent
    * à voler de l'argent à son ami
    * à devenir une figure influente
    * à organiser des fêtes somptueuses

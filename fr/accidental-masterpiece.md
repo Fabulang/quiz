@@ -9,7 +9,7 @@
 
 2. Lorsque les critiques d'art voient le tableau, ils
 
-   * l'ennuient de compliments
+   * le couvrent de compliments
    * le critiquent avec sévérité
    * doutent de son authenticité
    * le qualifient d'offensant

@@ -10,7 +10,7 @@
 
 2. Le ballon
 
-   * voulait partir
+   * voulait s'échapper
    * ne voulait pas partir
 
    et une fois qu'il a commencé à monter
@@ -36,5 +36,5 @@
 
    * triste
    * euphorique
-   * éclairé
+   * plus intelligent
    * étourdi
