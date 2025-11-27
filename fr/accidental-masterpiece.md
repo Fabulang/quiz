@@ -21,7 +21,7 @@
    * elle est l'artiste connue sous le nom de Pinceau
    * elle l'a dupé
 
-4. Le conservateur publie une déclaration, et les critiques
+4. Le Conservateur publie une déclaration, et les critiques
 
    * prétendent que leurs premières critiques n'étaient que des plaisanteries
    * s'opposent violemment à la déclaration
@@ -30,7 +30,7 @@
 5. Quelque temps plus tard, lorsque Geoffroy lit le journal, il comprend que
 
    * Geneviève, la femme de ménage
-   * le conservateur
+   * le Conservateur
    * lui-même
 
    est l'artiste connu sous le nom de Pinceau.

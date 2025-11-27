@@ -33,9 +33,9 @@
 4. Dorothy and the monster don't get in trouble because
    
    * Dorothy persuades the staff that they made a mistake
-   * She puts the monster away quickly
-   * The staff are too confused about what's going on
-   * The staff forget about it
+   * she puts the monster away quickly
+   * the staff are too confused about what's going on
+   * the staff forget about it
 
 5. Dorothy and the monster
 

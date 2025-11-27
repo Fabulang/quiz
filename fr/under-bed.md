@@ -5,12 +5,12 @@
 
    * doit normalement partir quand quelqu'un le découvre
    * a deux grands yeux effrayants
-   * lui demande de lui donner des choses dégoûtantes à manger
+   * lui demande de lui donner des choses dégoutantes à manger
    * essaie de s'enfuir par la fenêtre
 
    mais Dorothée devient son amie.
 
-2. Quand Dorothée devient adulte, elle
+2. Une fois adulte, Dorothée
 
    * devient pilote d'avion
    * fait un voyage en avion
@@ -25,17 +25,17 @@
 
 3. Le monstre saute partout dans l'avion parce que
 
-   * le personnel l'attaque
+   * il est attaqué par les membres de l'équipage
    * il se comporte mal et refuse de rester calme
    * il rebondit après avoir été frappé
-   * il attaque le personnel
+   * il attaque les membres de l'équipage
 
 4. Dorothée et le monstre ne sont pas punis parce que
 
-   * Dorothée convainc le personnel qu'ils se sont trompés
-   * Elle range rapidement le monstre
-   * Le personnel est trop confus pour réagir
-   * Le personnel oublie ce qui s'est passé
+   * Dorothée convainc les membres de l'équipage qu'ils se sont trompés
+   * elle range rapidement le monstre
+   * les membres de l'équipage sont trop confus pour réagir
+   * les membres de l'équipage oublient ce qui s'est passé
 
 5. Dorothée et le monstre
 
@@ -44,4 +44,4 @@
    * décident de garder leur amitié secrète
    * ne réalisent jamais tous leurs rêves
 
-   Mais on pourrait interpréter l'histoire autrement aussi.
+   Mais cette histoire pourrait aussi être interprétée d’autres manières.
