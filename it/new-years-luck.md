@@ -44,5 +44,5 @@
 
    * ha buoni amici sull'astronave
    * ha visto uno spettacolo incredibile e improbabile
-   * sopravviveranno dopotutto
+   * dopotutto riusciranno a sopravvivere
    * l'equipaggio rispetta la sua competenza

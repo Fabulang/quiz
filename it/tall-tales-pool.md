@@ -3,7 +3,7 @@
 
 1. Giosué lavora in piscina. Il lavoro
 
-   * richiede molta ripetizione
+   * è molto ripetitivo
    * aiuta Giosué a mantenersi in forma
    * è pagato sopra la media per un adolescente
    * è una perdita di tempo

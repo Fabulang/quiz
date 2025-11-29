@@ -26,7 +26,7 @@
 
    * Per tirarle su il morale
    * Perché è offerto dalla casa
-   * Lei l'ha ordinato
+   * L'ha ordinato lei
    * Sa che è il suo preferito
 
 5. Perché Giuseppina è felice alla fine?

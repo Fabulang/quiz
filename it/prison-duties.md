@@ -32,7 +32,7 @@
 
    * creerà una distrazione
    * ha troppa paura per fuggire, dopotutto
-   * il Capo delle Guardie glielo ha ordinato
+   * il capo delle guardie glielo ha ordinato
    * vuole far arrabbiare le guardie
 
    e sorride perché

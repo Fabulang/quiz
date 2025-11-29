@@ -10,7 +10,7 @@
 2. Matteo fa apparire delle anatre, perché
 
    * il suo incantesimo va storto
-   * pensa che impressionerà i suoi insegnanti
+   * pensa di impressionare i suoi insegnanti
    * pensa che lo renderanno forte
    * pensa che lo faranno volare
 

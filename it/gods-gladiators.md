@@ -10,17 +10,17 @@
 
 2. Il dio Apollo ha donato a Lucia un potere speciale:
 
-   * Può vedere cosa accadrà in futuro
-   * Può influenzare gli eventi futuri
-   * È sempre fortunata
-   * Vince sempre quando gioca d'azzardo
+   * può vedere cosa accadrà in futuro
+   * può influenzare gli eventi futuri
+   * è sempre fortunata
+   * vince sempre quando gioca d'azzardo
 
    Ma Lucia ha dovuto pagare un prezzo:
 
-   * Non può mai mentire
-   * Sarà sempre una schiava
-   * Può usare il potere solo per aiutare il suo padrone
-   * Non può mantenere nessun segreto
+   * non può mai mentire
+   * sarà sempre una schiava
+   * può usare il potere solo per aiutare il suo padrone
+   * non può mantenere alcun segreto
 
 3. Lucia usa il suo potere per aiutare il padrone a
 

@@ -9,7 +9,7 @@
 
 2. Quando i critici d'arte vedono il quadro, essi
 
-   * lo colmano di elogi
+   * lo ricoprono di elogi
    * lo criticano duramente
    * si chiedono se sia autentico
    * lo definiscono offensivo
@@ -21,7 +21,7 @@
    * lei è l'artista noto come Pennello
    * lei lo ha ingannato
 
-4. Il curatore diffonde una dichiarazione, e i critici
+4. Il curatore diffonde una dichiarazione e i critici
 
    * fingono che le loro recensioni precedenti fossero scherzi
    * dissentono con veemenza dalla dichiarazione

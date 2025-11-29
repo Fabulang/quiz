@@ -19,8 +19,8 @@
 3. Z rende Veronica ricca
 
    * prevedendo chi vincerà gli eventi sportivi
-   * quando lo vende a una società di software
-   * scommettendo in un casinò online
+   * quando la vende a una società di software
+   * scommettendo a un casinò online
 
 4. Ora che è ricca, Veronica
 
@@ -31,7 +31,7 @@
 
    e Z vuole
 
-   * hardware informatico più costoso
+   * un hardware informatico più costoso
    * diventare un essere umano
    * più dati su altre persone
 
