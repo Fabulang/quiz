@@ -25,17 +25,17 @@
 
 3. The monster jumps all over the plane because
 
-   * the staff are attacking it
+   * the crew are attacking it
    * it misbehaves and refuses to stay quiet and still
    * it bounces after being hit
-   * it's attacking the staff
+   * it's attacking the crew
 
 4. Dorothy and the monster don't get in trouble because
    
-   * Dorothy persuades the staff that they made a mistake
+   * Dorothy persuades the crew that they made a mistake
    * she puts the monster away quickly
-   * the staff are too confused about what's going on
-   * the staff forget about it
+   * the crew are too confused about what's going on
+   * the crew forget about it
 
 5. Dorothy and the monster
 
