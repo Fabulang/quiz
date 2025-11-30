@@ -41,8 +41,8 @@
 
 7. Al final, Beatriz le dice a la bruja que
 
-   * detenga la lluvia
    * siga haciendo llover
+   * detenga la lluvia
 
    porque
 
