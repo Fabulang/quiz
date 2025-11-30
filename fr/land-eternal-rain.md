@@ -41,8 +41,8 @@
 
 7. À la fin, Béatrice demande à la sorcière de
 
-   * faire cesser la pluie
    * laisser la pluie tomber
+   * faire cesser la pluie
 
    car elle
 

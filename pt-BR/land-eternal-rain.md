@@ -41,8 +41,8 @@
 
 7. No final, Beatriz diz para a bruxa
 
-   * parar a chuva
    * continuar a fazer chover
+   * parar a chuva
 
    e isso porque ela
 

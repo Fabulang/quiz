@@ -41,8 +41,8 @@
 
 7. At the end, Beatrice tells the witch to
 
-   * stop the rain
    * keep it raining
+   * stop the rain
 
    because she
 

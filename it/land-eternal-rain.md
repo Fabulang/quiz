@@ -41,8 +41,8 @@
 
 7. Alla fine, Beatrice dice alla strega di
 
-   * fermare la pioggia
    * far continuare la pioggia
+   * fermare la pioggia
 
    perché
 
