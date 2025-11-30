@@ -5,7 +5,7 @@
 
    * il suo comportamento ha minato l'autorità del governo
    * è stata accusata di tradimento
-   * suonava musica considerata immorale
+   * suonava musica considerata oscena
    * ha attaccato edifici governativi
 
 2. Enrica può spesso uscire dalla sua cella

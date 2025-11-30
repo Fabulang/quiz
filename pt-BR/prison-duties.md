@@ -5,7 +5,7 @@
 
    * o seu comportamento minou o governo
    * foi acusada de traição
-   * tocou música considerada imoral
+   * tocou música considerada obscena
    * atacou prédios do governo
 
 2. Henrica costuma ser autorizada a sair da cela

@@ -5,7 +5,7 @@
 
    * son comportement a remis en question l'autorité du gouvernement
    * elle a été accusée de trahison
-   * elle a joué de la musique jugée immorale
+   * elle a joué de la musique jugée obscène
    * elle a attaqué des bâtiments officiels
 
 2. On permet souvent à Henriette de sortir de sa cellule

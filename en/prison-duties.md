@@ -5,7 +5,7 @@
 
    * her behaviour undermined the government
    * she was accused of treason
-   * she played music that was considered immoral
+   * she played music that was considered obscene
    * she attacked government buildings
 
 2. Harriet is often allowed out of her cell
