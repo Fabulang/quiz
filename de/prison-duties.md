@@ -5,7 +5,7 @@
 
    * ihr Verhalten die Regierung untergraben hat
    * man sie des Hochverrats beschuldigte
-   * sie Musik spielte, die als unmoralisch galt
+   * sie Musik spielte, die als obszön galt
    * sie Regierungsgebäude angegriffen hat
 
 2. Henriette darf oft ihre Zelle verlassen
