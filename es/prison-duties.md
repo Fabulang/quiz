@@ -5,7 +5,7 @@
 
    * su comportamiento minaba al gobierno
    * fue acusada de traición
-   * tocó música considerada inmoral
+   * tocó música considerada obscena
    * atacó edificios del gobierno
 
 2. A Enriqueta a menudo la dejan salir de su celda
