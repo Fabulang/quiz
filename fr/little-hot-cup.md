@@ -8,7 +8,7 @@
    * agente d'entretien
    * entrepreneuse
 
-   mais cela ne lui plait pas.
+   mais cela ne lui plaît pas.
 
 2. Tous les jours, Arianne achète un café dans un café
 

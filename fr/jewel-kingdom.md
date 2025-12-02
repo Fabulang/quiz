@@ -33,7 +33,7 @@
    * Moros prend la fuite
    * elle le tue
    * l'épée de Moros se brise
-   * elle utilise la magie pour le faire disparaitre
+   * elle utilise la magie pour le faire disparaître
 
 5. La fin nous montre que
 

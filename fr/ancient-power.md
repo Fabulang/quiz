@@ -27,7 +27,7 @@
    * qu'Angélique est la petite-fille de sa tante
    * qu'elle est la nièce d'Angélique
 
-4. Angélique brule le parchemin parce qu'elle
+4. Angélique brûle le parchemin parce qu'elle
 
    * souhaite que personne d'autre ne trouve l'orbe
    * veut détruire l'orbe
@@ -38,5 +38,5 @@
 
    * de se réconcilier avec son frère
    * de dire à son frère que l'orbe n'existe pas
-   * d'arrêter de chercher des artéfacts anciens
+   * d'arrêter de chercher des artefacts anciens
    * de ne plus jamais quitter la maison

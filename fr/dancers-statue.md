@@ -18,14 +18,14 @@
 3. Hugues passe un accord avec Geneviève: s'il ne trouve pas la statue,
 
    * il ne lui fera rien payer
-   * il l'invitera à diner
+   * il l'invitera à dîner
    * il lui fera visiter la ville gratuitement
    * il l'emmènera voir huit autres statues
 
 4. À la fin de la journée
 
-   * Geneviève invite Hugues à diner
-   * Hugues invite Geneviève à diner
+   * Geneviève invite Hugues à dîner
+   * Hugues invite Geneviève à dîner
    * Hugues veut arrêter de travailler
    * Geneviève ne peut pas payer Hugues
 

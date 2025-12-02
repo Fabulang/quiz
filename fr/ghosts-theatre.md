@@ -20,16 +20,16 @@
    * un élément important de la culture locale
    * un lieu de rencontre pour les habitants de la ville
    * le bâtiment le plus important de la ville
-   * abimé par des enfants qui y jouaient
+   * abîmé par des enfants qui y jouaient
 
-4. Adélaïde apparait en fantôme parce que
+4. Adélaïde apparaît en fantôme parce que
 
    * elle est triste que les gens aient oublié le théâtre
    * elle est triste que les gens aient oublié ses chansons
    * la gloire lui manque
    * elle essaie de faire fuir les enfants
 
-5. Elle disparait parce que Christian
+5. Elle disparaît parce que Christian
 
    * a apprécié sa prestation
    * lui a tendu un piège

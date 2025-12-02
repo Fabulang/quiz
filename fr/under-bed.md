@@ -5,7 +5,7 @@
 
    * doit normalement partir quand quelqu'un le découvre
    * a deux grands yeux effrayants
-   * lui demande de lui donner des choses dégoutantes à manger
+   * lui demande de lui donner des choses dégoûtantes à manger
    * essaie de s'enfuir par la fenêtre
 
    mais Dorothée devient son amie.

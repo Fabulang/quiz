@@ -14,7 +14,7 @@
 
    * aussi complexe que possible
    * facile à comprendre
-   * qui parait intelligent mais est en réalité aléatoire
+   * qui paraît intelligent mais est en réalité aléatoire
    * que seule Mme Castagne peut comprendre
 
 3. Mme Castagne est impressionnée par le système d'Émile, mais
