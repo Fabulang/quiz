@@ -24,8 +24,8 @@
 
 4. All'inizio, l'insegnante di Dionigi è colpita perché
 
-   * all'improvviso è molto bravo in matematica
-   * consegna sempre i compiti in tempo
+   * all'improvviso Dionigi è molto bravo in matematica
+   * Dionigi consegna sempre i compiti in tempo
 
    ma poi si arrabbia perché si rende conto che
 

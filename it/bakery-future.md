@@ -5,7 +5,7 @@
 
    * preferisce interagire con persone vere
    * teme che possa farle del male
-   * non offre un buon servizio al cliente
+   * il robot non offre un buon servizio ai clienti
    * non sa come funzioni
 
 2. Quando Editta cerca di comprare una pagnotta, il robot

@@ -15,7 +15,7 @@
    * Marco è sempre stanco
    * le conoscenze di Marco sono superate
 
-3. Un criminale pericoloso, conosciuto come 'il Lupo', arriva in città per
+3. Un criminale pericoloso, conosciuto come "il Lupo", arriva in città per
 
    * derubare la gente
    * sparare alla gente

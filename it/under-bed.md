@@ -12,7 +12,7 @@
 
 2. Quando Dorotea cresce, lei
 
-   * diventa una pilota d'aereo
+   * diventa pilota d'aereo
    * fa un viaggio in aereo
    * lavora come copilota su un aereo
    * lavora come hostess di volo
@@ -33,7 +33,7 @@
 4. Dorotea e il mostro non si mettono nei guai perché
 
    * Dorotea convince il personale che hanno fatto un errore
-   * mette via il mostro rapidamente
+   * lei mette via il mostro rapidamente
    * il personale è troppo confuso per capire cosa succede
    * il personale se ne dimentica
 

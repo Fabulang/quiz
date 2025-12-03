@@ -1,7 +1,7 @@
 ---
 ---
 
-1. La gigantesca zucca di Arnoldo è scomparsa, e lui sospetta
+1. La gigantesca zucca di Arnoldo è scomparsa e lui sospetta
 
    * che il suo vicino l'abbia presa
    * che il suo vicino l'abbia mangiata
@@ -9,20 +9,20 @@
 
    perché vede che
 
-   * ci sono segni sul terreno
+   * ci sono dei segni sul terreno
    * la staccionata del vicino è danneggiata
    * il cancello del suo giardino è aperto
 
 2. Il vicino di Arnoldo
 
-   * insulta Arnoldo
+   * lo insulta
    * è profondamente turbato dall'accusa
    * rientra in casa infuriato
    * consegna ad Arnoldo un premio per "la peggior verdura"
 
 3. Il cane di Arnoldo
 
-   * è stato lui a prendere la zucca
+   * è colpevole di aver preso la zucca
    * trova la zucca in città e la riporta indietro
    * ha inseguito il ladro e ha recuperato la zucca
 

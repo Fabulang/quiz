@@ -15,7 +15,7 @@
 
 3. Lilia
 
-   * riprende
+   * raccoglie
    * ruba
    * prende in prestito
 

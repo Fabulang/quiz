@@ -28,7 +28,7 @@
    * devono lavorare durante il giorno
    * sono persone molto strane
 
-5. I vicini stavano sussurrando perché
+5. I vicini sussurravano perché
 
    * non volevano disturbare il signor Tommaso
    * non volevano svegliare il loro gatto

@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Ginevra vuole vedere una certa statua perché
+1. Ginevra vuole vedere una statua specifica perché
 
    * ne ha letto in un vecchio libro
    * è stata costruita nel 1986, l'anno in cui è nata
@@ -10,16 +10,16 @@
 
 2. Ugo, un tassista, non ha mai sentito parlare della statua, perché
 
-   * il suo nome è cambiato
-   * non si trova più lì
-   * è più vecchia di lui
+   * il nome della statua è cambiato
+   * la statua non si trova più lì
+   * la statua è più vecchia di lui
    * lui non legge libri
 
 3. Ugo fa un patto con Ginevra: se non riesce a trovare la statua,
 
    * non le farà pagare la corsa
    * le offrirà la cena
-   * le farà un giro gratuito della città
+   * le farà fare un giro gratuito della città
    * la porterà a vedere altre otto statue
 
 4. Alla fine della giornata

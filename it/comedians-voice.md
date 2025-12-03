@@ -6,7 +6,7 @@
    * gli manca sicurezza
    * non sa fare nient'altro
    * gli piace farle
-   * fa ridere la gente senza controllo
+   * fa ridere la gente a crepapelle
 
 2. Francesco decide
 
@@ -15,12 +15,12 @@
 
    di provare un tipo diverso di comicità.
 
-3. Racconta una barzelletta su
+3. Racconta una barzelletta
 
-   * non essere molto attraente
-   * quanto canti male
-   * scivolare in bagno
-   * rompere uno specchio
+   * sul suo non essere molto attraente
+   * su quanto canti male
+   * sullo scivolare in bagno
+   * sul rompere uno specchio
 
 4. Francesco si rende conto che
 

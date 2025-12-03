@@ -20,7 +20,7 @@
    * cibo e amicizia
    * posti in prima fila alla gara
    * denaro, ma solo se Elpidios vince
-   * niente affatto
+   * nulla
 
 4. Quando Elpidios arriva allo stadio,
 

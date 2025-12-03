@@ -1,12 +1,12 @@
 ---
 ---
 
-1. La signora Pugile rimprovera Emilio per
+1. La signora Pugile rimprovera Emilio perché
 
-   * essere disorganizzato
-   * essere in disordine
-   * essere poco cordiale
-   * non usare bene penne e matite
+   * è disorganizzato
+   * è disordinato
+   * è poco cordiale
+   * non usa bene penne e matite
 
    e dice che non riceverà una promozione.
 
@@ -22,9 +22,9 @@
    * non riesce a usarlo lei stessa
    * si rifiuta di usarlo lei stessa
    * cerca di modificarlo
-   * continua a chiamarlo disorganizzato
+   * continua a definirlo disorganizzato
 
-4. Quando l'amministratore delegato vede il sistema di Emilio, lui/lei
+4. Quando l'amministratore delegato vede il sistema di Emilio,
 
    * promuove Emilio
    * licenzia Emilio
@@ -35,4 +35,4 @@
    * non riesce a usare il sistema di Emilio senza di lui
    * adotta il sistema di Emilio e lo trova utile
    * modifica il sistema di Emilio, peggiorandolo
-   * viene retrocessa perché è disorganizzata
+   * viene declassata perché è disorganizzata

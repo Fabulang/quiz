@@ -24,7 +24,7 @@
 
 3. Un giorno il bar è chiuso, perché il proprietario
 
-   * non può permettersi di aprirlo
+   * non può più permettersi di aprirlo
    * non ha presentato la contabilità corretta
    * lo sta ristrutturando
    * ha problemi di salute

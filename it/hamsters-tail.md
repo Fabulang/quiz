@@ -10,16 +10,16 @@
 
 2. Elia prende il criceto dalla gabbia perché
 
-   * la ragazza glielo chiede
+   * la bambina glielo chiede
    * deve dargli da mangiare
    * vuole tenerlo in mano
 
 3. Il criceto scappa perché
 
-   * morde la ragazza
-   * la ragazza lo mette sul pavimento
+   * morde la bambina
+   * la bambina lo mette sul pavimento
    * la gabbia cade
-   * salta dalle mani della ragazza
+   * salta dalle mani della bambina
 
 4. Elia chiede se sua madre lo ama, perché
 

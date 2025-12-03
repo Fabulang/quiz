@@ -7,12 +7,12 @@
    * non le è permesso lasciare la sua stanza di notte
    * non conosce la ricetta
 
-2. Annabella lancia il porridge sul soffitto perché
+2. Annabella schizza la pappa d'avena sul soffitto perché
 
    * è sorpresa che il cane sappia parlare
    * è esasperata dalla sua vita
    * sta cercando di colpire il cane
-   * è così che cucina il porridge
+   * è così che cucina la pappa d'avena
 
 3. Annabella non viene punita perché
 
@@ -28,7 +28,7 @@
    * migliora il benessere degli animali
    * ha un profumo davvero piacevole
 
-5. Perché arrivano i cavalli alla fine?
+5. Perché alla fine della storia arrivano i cavalli?
 
    * Non è chiaro cosa intendano fare
    * Vogliono controllare la pozione

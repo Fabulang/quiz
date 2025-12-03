@@ -14,14 +14,14 @@
    * una giovane strega
    * una dirigente della città
 
-3. Va al Municipio perché
+3. Beatrice va al Municipio perché
 
    * vuole aiutare a fermare la pioggia
    * le è stato detto di andare lì
    * è lì che è nata
    * è un edificio bellissimo
 
-4. Va a trovare una strega che
+4. Beatrice va a trovare una strega che
 
    * vive sulla cima di una montagna
    * vive in un castello vicino al mare

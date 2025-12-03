@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Lucia non è felice perché
+1. Lucia non è felice, perché
 
    * non ha amici
    * non ha abbastanza soldi

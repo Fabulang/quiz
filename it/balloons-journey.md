@@ -3,8 +3,8 @@
 
 1. All'inizio, il palloncino rosso
 
-   * è tenuto da un bambino
-   * viene lanciato via da un bambino
+   * è tenuto da una bambina
+   * viene lanciato via da una bambina
    * si trova nel negozio di palloncini
    * è rimasto impigliato in un albero
 

@@ -5,7 +5,7 @@
 
    * è uno spettacolo triste
    * è pericoloso
-   * è così incolto che è difficile passarci
+   * è così incolto che è difficile attraversarlo
 
 2. Ogni mattina, Amanda
 

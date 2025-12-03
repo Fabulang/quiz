@@ -17,8 +17,8 @@
 
    * Giacomina era ossessionata dal trovare la sfera
    * Giacomina era sempre arrabbiata e scortese
-   * suo fratello pensava che fosse fuori di testa
-   * suo fratello voleva trovare la sfera anche lui
+   * suo fratello pensava che lei fosse fuori di testa
+   * anche suo fratello voleva trovare la sfera
 
 3. Quando Giacomina tocca la sfera, capisce che
 

@@ -6,7 +6,7 @@
    * cibo
    * ricette segrete
    * viaggi
-   * la Cina
+   * cultura cinese
 
 2. Rossana va a trovare il signor Chen perché
 
@@ -25,7 +25,7 @@
 4. Dopo un anno, Rossana
 
    * è diventata una buona amica del signor Chen
-   * è infastidita perché il signor Chen non ha ancora rivelato il segreto
+   * è infastidita perché il signor Chen non ha ancora rivelato il suo segreto
    * ha capito la ricetta del signor Chen
    * non vuole più mangiare ravioli
 

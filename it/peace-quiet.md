@@ -21,7 +21,7 @@
 
    * ha un solo orecchio
    * ha un solo occhio
-   * ha il pelo fulvo e occhi luminosi
+   * ha il pelo rosso e occhi luminosi
    * sa correre molto velocemente
 
 4. Passano diversi mesi. Ora Roberto
@@ -31,7 +31,7 @@
    * si è sposato
    * ha comprato un nuovo appartamento
 
-5. Alla fine, c'è un gatto nero e un gatto fulvo. Il gatto fulvo
+5. Alla fine, c'è un gatto nero e un gatto rosso. Il gatto rosso
 
    * è lo stesso gatto del
    * è il figlio del

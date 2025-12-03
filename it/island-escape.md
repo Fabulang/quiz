@@ -21,7 +21,7 @@
    * il suo paese è più bello dell'isola
    * non è bloccato sull'isola
 
-4. Giacomo torna a casa. A causa della sua esperienza,
+4. Giacomo torna a casa. Grazie alla sua esperienza,
 
    * apprezza ciò che ha sempre avuto
    * gli piacciono di più i suoi vicini

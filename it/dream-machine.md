@@ -46,5 +46,5 @@
 
    * mostrando alla città ciò che il Governatore sogna
    * rivelando che il Governatore paga per i sogni
-   * ottenendo dal suo sogno la password del Governatore
-   * usando le informazioni del sogno del Governatore per danneggiarlo
+   * ottenendo la password del Governatore dal suo sogno
+   * usando le informazioni del sogno del Governatore per rovinarlo

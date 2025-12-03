@@ -5,7 +5,7 @@
 
    * un appartamento in affitto
    * una casa di loro proprietà
-   * la casa dei suoi genitori
+   * casa dei suoi genitori
    * una stanza libera a casa di qualcun altro
 
 2. Ogni mese, Gerardo
@@ -27,14 +27,14 @@
 
    * Gerardo la stava interrompendo
    * Gerardo le ha portato via le lettere
-   * voleva pulire la casa
-   * si sentiva in colpa per intralciarlo
+   * lei voleva pulire la casa
+   * lei si sentiva in colpa per intralciarlo
 
 4. Pulivano i tappeti
 
    * strofinandoli
    * usando l'aspirapolvere
-   * con asciugacapelli
+   * con l'asciugacapelli
    * con un panno speciale
 
 5. Ricevono una lettera da

@@ -16,7 +16,7 @@
 
    quindi
 
-   * inventa una storia
+   * si inventa una storia
    * le racconta
 
    di un lago magico e si offre di accompagnarla lì.

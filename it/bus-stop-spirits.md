@@ -11,8 +11,8 @@
 
    * non esiste davvero
    * è chiusa ai visitatori
-   * non si può visitarla con un animale domestico
-   * si può raggiungerla solo a piedi
+   * non la si può visitare con un animale domestico
+   * la si può raggiungere solo a piedi
 
 2. Il responsabile di Elisabetta ha pagato qualcuno
 

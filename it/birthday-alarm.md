@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Margherita è arrabbiata con Giorgio perché
+1. Margherita è arrabbiata con Giorgio perché lui
 
    * non si ricorda mai del suo compleanno
    * è sempre impegnato con il lavoro

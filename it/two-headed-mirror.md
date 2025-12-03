@@ -1,10 +1,10 @@
 ---
 ---
 
-1. Amalia trova uno specchio con un disegno di serpente. Le piace perché
+1. Amalia trova uno specchio con una decorazione a forma di serpente. Le piace perché
 
-   * sembra tradizionale
-   * sembra esotico
+   * sembra antico
+   * è esotico
    * le piacciono i serpenti
    * ha un valore storico
 
@@ -28,6 +28,6 @@
    * basta guardarsi in faccia
    * basta aspettare che l'orologio segni l'una
    * basta spostare l'orologio a destra
-   * rompere lo specchio
+   * basta lo specchio
 
-   Allora, quale Amalia era reale e quale era il riflesso?
+   Alla fine, quale Amalia era reale e quale era il riflesso?

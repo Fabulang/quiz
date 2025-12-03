@@ -10,8 +10,8 @@
 
    e quando Noemi segue i consigli
 
-   * tutto va bene
-   * tutto va male
+   * va tutto bene
+   * va tutto male
 
 2. Un giorno, Noemi e il suo ragazzo litigano. La sfera di cristallo
 
@@ -22,12 +22,12 @@
 
 3. Si scopre che la sfera di cristallo è elettronica, e i suoi consigli
 
-   * non si basano su nulla
+   * si basano sul nulla
    * si basano sull'ora del giorno
-   * provengono da Internet
+   * provengono da internet
    * sono trasmessi da un'azienda
 
-4. Questa scoperta rende Noemi felice, perché significa che
+4. Questa scoperta rende felice Noemi, perché significa che
 
    * il suo ragazzo la apprezza per ciò che è
    * può riconciliarsi con il suo ragazzo

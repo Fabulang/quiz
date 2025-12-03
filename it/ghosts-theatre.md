@@ -24,8 +24,8 @@
 
 4. Adelaide appare come fantasma perché
 
-   * è triste che la gente abbia dimenticato il teatro
-   * è triste che la gente abbia dimenticato le sue canzoni
+   * le dispiace che la gente abbia dimenticato il teatro
+   * le dispiace che la gente abbia dimenticato le sue canzoni
    * le manca essere al centro dell'attenzione
    * sta cercando di spaventare i ragazzi
 

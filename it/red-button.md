@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Il Capo della Polizia apprezza il detective Corvo, perché Corvo
+1. Il capo della polizia apprezza il detective Corvo, perché Corvo
 
    * risolve molti casi di omicidio
    * ha un sesto senso
@@ -26,11 +26,11 @@
 
    * la porta era chiusa dall'interno
    * il corpo fu scoperto dieci anni dopo
-   * non fu mai trovato l'arma del delitto
+   * non fu mai trovata l'arma del delitto
 
 5. Si scopre che l'assassino di Falkenroth
 
-   * possiede anche lui un dispositivo come quello di Corvo
-   * è un viaggiatore del tempo venuto dal futuro
+   * possiede un dispositivo come quello di Corvo
+   * viaggia nel tempo e viene dal futuro
    * ha poteri soprannaturali
    * è lo stesso Corvo

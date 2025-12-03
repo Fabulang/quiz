@@ -16,7 +16,7 @@
 
    Così, un giorno, si imbarca di nascosto su una nave.
 
-2. La nave viene attaccata da un calamaro gigante. Håkon riesce ad aiutare perché
+2. La nave viene attaccata da un calamaro gigante. Håkon riesce ad aiutare l'equipaggio perché
 
    * conosce bene il funzionamento della nave
    * è un guerriero eccezionale
@@ -30,7 +30,7 @@
 
 3. Cercano di fuggire, ma
 
-   * il calamaro nuota più veloce della loro nave
+   * il calamaro è più veloce della loro nave
    * non riescono ad alzare la vela
    * l'equipaggio non segue le sue istruzioni
    * il vento li rallenta

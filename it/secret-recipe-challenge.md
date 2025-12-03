@@ -31,9 +31,9 @@
    * su una collina nella città accanto
    * nel giardino del signor Guardaboschi
 
-5. Il signor Guardaboschi è particolarmente colpito perché Clementina
+5. Il signor Guardaboschi è particolarmente colpito, perché Clementina
 
    * ha dimostrato la sua dedizione
    * ha preparato la torta alla frutta alla perfezione
    * ha un'ottima conoscenza dei diversi ingredienti
-   * ha fallito la sfida, ma non si è arresa
+   * non ha superato la sfida, ma non si è arresa

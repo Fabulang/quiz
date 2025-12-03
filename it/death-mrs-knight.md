@@ -8,7 +8,7 @@
    * ossessionata dal suo lavoro
    * infedele
 
-2. Al momento dell'omicidio, il signor Cavaliere afferma che stava
+2. Al momento dell'omicidio, il signor Cavaliere afferma che lui stava
 
    * preparando il pranzo
    * tagliando l'erba
@@ -26,8 +26,8 @@
 
    * la morte della signora Cavaliere sia stato un suicidio
    * l'assassino sia entrato nello studio dalla finestra
-   * abbia sentito qualcuno aprire la porta dello studio
-   * non abbia idea di come sia morta la signora Cavaliere
+   * lui abbia sentito qualcuno aprire la porta dello studio
+   * lui non abbia idea di come sia morta la signora Cavaliere
 
 5. Il detective risolve il caso
 
