@@ -12,7 +12,7 @@
 
    * non ama indossare gli occhiali
    * adora i suoi occhiali
-   * sembra molto bella quando porta gli occhiali
+   * è molto bella quando porta gli occhiali
    * ha perso i suoi occhiali
 
 3. Nel salotto, lei
@@ -23,14 +23,14 @@
 
    perché
 
-   * non vede chiaramente
+   * non vede bene
    * pensa che sia di tendenza
    * sta facendo uno scherzo a suo marito
 
 4. Elisa si mette gli occhiali perché
 
    * non trova la chiave della porta
-   * vuole fare una buona impressione sugli amici
+   * vuole fare una buona impressione sulle sue amiche
    * si ricorda dove li aveva messi
    * sta andando al cinema
 

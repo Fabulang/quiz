@@ -6,7 +6,7 @@
    * il suo commento è stato uno dei primi
    * Raichand ha messo "mi piace" al suo commento
    * il suo nome è stato scelto per puro caso
-   * 70.000 persone avevano messo "mi piace" al suo commento
+   * 70.000 persone hanno messo "mi piace" al suo commento
 
    Di conseguenza, Grazia e il suo fidanzato Tommaso vincono
 

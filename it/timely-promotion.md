@@ -7,21 +7,21 @@
    * un fulmine colpisce l'orologio da parete
    * la macchina del caffè si guasta
    * beve un caffè che brilla di blu
-   * il suo orologio si guasta e le dà una scossa
+   * il suo orologio si guasta e le dà la scossa
 
 2. Giovanna usa il suo nuovo potere per
 
-   * far passare in fretta i compiti noiosi
+   * completare in fretta i compiti noiosi
    * svolgere il lavoro di un mese in una settimana
    * trovare buone idee
    * dimenticarsi del lavoro
 
-3. Alla fine, Giovanna salta avanti fino a
+3. Alla fine, Giovanna salta avanti fino
 
-   * la sua festa di pensionamento
-   * la sua promozione
-   * il suo compleanno
-   * il giorno in cui prende il controllo dell'azienda
+   * alla sua festa di pensionamento
+   * alla sua promozione
+   * al suo compleanno
+   * al giorno in cui prende il controllo dell'azienda
 
 4. Giovanna decide
 

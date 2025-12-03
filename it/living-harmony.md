@@ -11,7 +11,7 @@
 2. A Vittoria non piace vivere con Geremia perché
 
    * suona sempre musica
-   * suona la chitarra male
+   * suona male la chitarra
    * è troppo ordinato
    * tiene un asino in casa
 
@@ -24,10 +24,10 @@
 
 4. Il giorno della partenza, quando arriva il taxi di Vittoria,
 
-   * sembrano entrambi tristi che se ne vada
+   * entrambi sembrano tristi che lei se ne vada
    * sono ancora arrabbiati l'uno con l'altra
    * Vittoria se ne va il più rapidamente possibile
-   * Geremia le dice di non lasciare nulla indietro
+   * Geremia le dice di non dimenticare nulla nell’appartamento
 
 5. Cosa rivela il finale?
 

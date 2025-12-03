@@ -29,6 +29,6 @@
 
    perché, mentre camminava nel sonno, deve aver
 
-   * detto al personale dell'hotel di comprarli per lui
-   * comprati in un negozio di alimentari
-   * rubati da un negozio di alimentari
+   * detto al personale dell'hotel di comprarle per lui
+   * ccomprato le verdure in un negozio di alimentari
+   * rubato le verdure da un negozio di alimentari

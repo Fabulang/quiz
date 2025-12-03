@@ -4,7 +4,7 @@
 1. Gabriella sta scrivendo un romanzo fantasy su
 
    * una minaccia da un potente aggressore
-   * la possibilità che Eravon sposi la Principessa
+   * la possibilità che Eravon sposi la principessa
    * uno scontro fra gli dèi
    * una gemma magica perduta
 
@@ -24,11 +24,11 @@
 3. Il suo eroe, Eravon, affronta il suo nemico, Moros, ma
 
    * Eravon si arrende
-   * la Principessa viene uccisa
+   * la principessa viene uccisa
    * Moros riesce a fuggire
    * Eravon lascia cadere l'arco
 
-4. Gabriella affronta Moros nel suo sogno, e
+4. Gabriella affronta Moros nel suo sogno e
 
    * Moros scappa
    * lei lo uccide

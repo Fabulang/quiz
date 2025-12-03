@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Un turista chiede della *Fermata del Bus degli Spiriti*, perché
+1. Un turista chiede della *Fermata del bus degli spiriti*, perché
 
    * ha letto un articolo online
    * ne ha letto in un volantino
