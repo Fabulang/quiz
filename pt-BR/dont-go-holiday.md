@@ -35,5 +35,5 @@
 5. Frederica percebe que
    
    * as mensagens eram dela própria no futuro
-   * as mensagens foram enviadas pelo sua assistente como brincadeira
+   * as mensagens foram enviadas pelo seu assistente como brincadeira
    * nunca saberá de quem eram as mensagens
