@@ -17,7 +17,7 @@
    quindi
 
    * si inventa una storia
-   * le racconta
+   * le rivela dell'esistenza
 
    di un lago magico e si offre di accompagnarla lì.
 
