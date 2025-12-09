@@ -1,25 +1,25 @@
 ---
 ---
 
-1. Um turista pergunta sobre a *Parada dos Espíritos* porque
+1. Um turista pergunta sobre o *Ponto de Ônibus dos Espíritos* porque
 
-   * leu um artigo sobre ela na internet
-   * leu sobre ela num folheto
-   * ela é famosa em toda a região
+   * leu um artigo sobre ele na internet
+   * leu sobre ele num folheto
+   * ele é famoso em toda a região
 
    mas
 
    * esse lugar não existe
-   * ela está fechada para visitas
-   * não é possível visitá-la com um animal de estimação
-   * só se pode chegar lá a pé
+   * ele está fechado para visitas
+   * você não pode visitá-lo com um animal de estimação
+   * você só pode chegar lá a pé
 
-2. O gerente de Elisabete pagou alguém
+2. O gerente da Elisabete pagou alguém
 
-   * para fingir que a parada é uma atração turística
-   * para escrever sobre a história da parada
+   * para fingir que o ponto de ônibus é uma atração turística
+   * para escrever sobre a história do ponto de ônibus
    * para escrever um artigo sobre semáforos
-   * para fazer magia na parada
+   * para fazer magia no ponto de ônibus
 
 3. Elisabete conta ao turista sobre a maldição do agricultor de repolhos, mas
 
@@ -39,4 +39,4 @@
    * estão visitando a área
    * estão aprendendo sobre a história local
    * conhecem a história do agricultor de repolhos
-   * estão comprando bilhetes de autocarro e corridas de táxi
+   * estão comprando passagens de ônibus e de táxi

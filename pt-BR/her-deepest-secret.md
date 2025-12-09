@@ -10,7 +10,7 @@
 
 2. A mulher na pintura é
 
-   * a mãe do Luís quando jovem
+   * a mãe do Luís quando era jovem
    * a tataravó do Luís
    * uma mulher rica da Índia
    * uma erudita de trezentos anos atrás

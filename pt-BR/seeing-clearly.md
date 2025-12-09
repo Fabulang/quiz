@@ -4,7 +4,7 @@
 1. Elisa
 
    * tem a visão fraca
-   * tem pouca coordenação motora
+   * tem pouca coordenação olho-mão
    * precisa de óculos especiais
    * é cega
 
@@ -23,14 +23,14 @@
 
    porque
 
-   * não enxerga bem
+   * ela não consegue ver nitidamente
    * acha que está na moda
    * está pregando uma peça no marido
 
 4. Elisa coloca os óculos porque
 
    * não consegue encontrar a chave da porta
-   * quer impressionar os amigos
+   * quer impressionar os amigos dela
    * lembra onde os deixou
    * vai ao cinema
 
@@ -38,5 +38,5 @@
 
    * consegue ver como ele realmente é
    * consegue ver o quanto a sala está bagunçada
-   * ele também está usando óculos
+   * ele está usando óculos também
    * ele chegou cedo

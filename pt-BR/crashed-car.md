@@ -12,7 +12,7 @@
 
    * no campo
    * na cidade
-   * em outro país
+   * em um país diferente
    * na floresta
 
 3. Adriano se sente triste e sozinho porque ele não gosta
@@ -24,7 +24,7 @@
 
 4. Adriano vê um carro acidentado. Ele percebe que
 
-   * é o próprio carro
+   * é seu próprio carro
    * é o carro de um amigo
    * o condutor era um homem como ele
    * o carro é imaginação dele

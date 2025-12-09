@@ -26,14 +26,14 @@
    * ficar tão rico quanto os três homens
    * chantagear os três homens
 
-4. Mas o plano de Henrique não vai funcionar porque
+4. Mas o plano do Henrique não vai funcionar porque
 
    * os homens sabem de tudo
-   * o chef não vai permitir
+   * o chefe não vai permitir
    * o contrato dele impede isso
 
 5. No fim, Henrique
 
    * pode estar em perigo
-   * perde o emprego
-   * congela até a morte
+   * perde o emprego dele
+   * é congelado até a morte

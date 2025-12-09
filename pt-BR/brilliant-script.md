@@ -1,51 +1,51 @@
 ---
 ---
 
-1. No começo, Domingos está a escrever sobre
+1. No começo, Domingos está escrevendo sobre
 
    * um espião
-   * fogos-de-artifício
+   * fogos de artifício
    * um segurança
    * uma carta
 
 2. A vizinha do Domingos é uma
 
-   * directora de cinema
+   * diretora de cinema
    * escritora
-   * especialista em fogos-de-artifício
+   * especialista em fogos de artifício
    * amiga próxima
 
    que
 
-   * costuma dar festas barulhentas
+   * frequentemente faz festas barulhentas
    * gosta de filmes ruins
    * pede desculpa com frequência
-   * passa muito tempo no jardim
+   * passa muito tempo no jardim dela
 
-3. Domingos sente-se
+3. Domingos se sente
 
    * irritado
-   * culpado
+   * arrependido
    * assustado
    * cansado
 
    e por isso ele
 
-   * escreve um novo argumento
-   * desliga o portátil
+   * escreve um novo roteiro
+   * desliga o notebook
    * apaga todo o trabalho
 
-4. O portátil do Domingos
+4. O notebook de Domingos
 
    * fica molhado
-   * é danificado pelos fogos-de-artifício
-   * está sempre a dar problemas
+   * é danificado pelos fogos de artifício
+   * está sempre dando problemas
 
    e ele
 
-   * envia um argumento por e-mail para a vizinha
-   * apaga o argumento
-   * desliga-se sozinho
+   * envia um roteiro por e-mail para a vizinha
+   * apaga o roteiro
+   * se desliga sozinho
 
 5. A vizinha visita o Domingos para
 
@@ -63,5 +63,5 @@
 6. Ela explica que
 
    * vai fazer muito mais festas
-   * fará menos barulho daqui para a frente
-   * será feito um filme sobre o jardim dela
+   * vai fazer menos barulho daqui para a frente
+   * vai ser feito um filme sobre o jardim dela

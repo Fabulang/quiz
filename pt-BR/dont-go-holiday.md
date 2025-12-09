@@ -3,24 +3,24 @@
 
 1. Frederica recebe mensagens estranhas
    
-   * no telemóvel
+   * no celular
    * nos e-mails
    * pelo correio
 
 2. As mensagens dizem a ela
    
-   * o que deve ou não deve fazer
-   * para comer as sandes dela
+   * o que fazer e não fazer
+   * para comer os sanduíches dela
    * que férias são uma má ideia
    * algumas piadas
 
 3. De férias, Frederica
    
-   * magoa-se
-   * perde o voo de regresso
-   * precisa de trabalhar
+   * se machuca
+   * perde o voo de volta
+   * precisa trabalhar
 
-4. De volta a casa, ela
+4. De volta para casa, ela
    
    * volta ao trabalho
    * desiste do emprego
@@ -35,5 +35,5 @@
 5. Frederica percebe que
    
    * as mensagens eram dela própria no futuro
-   * as mensagens foram enviadas pelo assistente como brincadeira
+   * as mensagens foram enviadas pelo sua assistente como brincadeira
    * nunca saberá de quem eram as mensagens

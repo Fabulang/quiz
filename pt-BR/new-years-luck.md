@@ -8,7 +8,7 @@
    * com ciúmes
    * zangado
 
-2. Alex sente-se azarado porque, três meses atrás, houve
+2. Alex se sente azarado porque, três meses atrás, houve
 
    * um acidente
    * uma explosão
@@ -22,12 +22,12 @@
 
 3. A tripulação conta ao Alex histórias sobre
 
-   * as tradições de Ano-Novo que têm em casa
+   * coisas que eles fazem na véspera de Ano-Novo em casa
    * por que ele foi escolhido para a missão
-   * os seus pratos preferidos
+   * os seus alimentos preferidos
    * as suas histórias de vida
 
-   o que
+   que
 
    * o anima
    * o faz rir
@@ -40,9 +40,9 @@
    * danifica ainda mais a nave
    * destrói os painéis solares
 
-5. No fim, Alex sente-se sortudo, porque
+5. No fim, Alex se sente sortudo, porque
 
    * tem bons amigos na nave espacial
-   * viu um espectáculo incrível e improvável
-   * eles vão sobreviver afinal
+   * viu um espetáculo incrível e improvável
+   * eles vão sobreviver apesar de tudo
    * a tripulação respeita a sua experiência

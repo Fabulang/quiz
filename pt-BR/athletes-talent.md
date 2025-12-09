@@ -1,18 +1,18 @@
 ---
 ---
 
-1. A história se passa
+1. A história acontece
 
-   * no passado distante
+   * num passado distante
    * no século XX
-   * durante os Jogos Olímpicos de Verão de 2004, na Grécia
+   * durante os jogos Olímpicos de Verão de 2004, na Grécia
    * num mundo fictício
 
 2. Elpidios quer ser um atleta olímpico, mas
 
-   * os treinadores profissionais não querem trabalhar com ele
-   * ele tem demasiado medo de falhar para tentar
-   * ele não tem talento suficiente
+   * os treinadores profissionais não vão trabalhar com ele
+   * ele tem muito medo de falhar para tentar
+   * ele realmente não tem talento suficiente
    * ele é preguiçoso demais para treinar de verdade
 
 3. Um idoso ajuda Elpidios a treinar, em troca de
@@ -20,7 +20,7 @@
    * comida e amizade
    * lugares na primeira fila da corrida
    * dinheiro, mas só se Elpidios vencer
-   * nada
+   * absolutamente nada
 
 4. Quando Elpidios chega ao estádio,
 
