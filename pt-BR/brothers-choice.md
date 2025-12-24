@@ -4,7 +4,7 @@
 1. Lourenço tem um relógio que
 
    * pertencia ao pai dele
-   * é o preferido da sua colecção
+   * é o preferido da sua coleção
    * está quebrado e sujo
    * o seu amigo quer comprar
 
@@ -16,9 +16,9 @@
 
 3. O pai de Lourenço deixou um testamento que deu
 
-   * um objecto para cada filho
+   * um objeto para cada filho
    * muito dinheiro aos seus filhos
-   * tudo para a pesquisa médica
+   * tudo para pesquisa médica
    * nada aos seus filhos
 
 4. O amigo de Lourenço revela que
@@ -34,7 +34,7 @@
 
 5. Lourenço gosta do relógio porque
 
-   * faz-lhe lembrar do pai
-   * é de um filme de ficção científica de que ele gosta
+   * o faz lembrar do pai dele
+   * é de um filme de ficção científica que ele gosta
    * gosta de desmontá-lo e montá-lo de novo
    * foi um presente do seu pai

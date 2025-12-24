@@ -3,15 +3,15 @@
 
 1. O Sr. Gregório é acusado de
 
-   * roubar um objecto de valor incalculável
+   * roubar um objeto de valor incalculável
    * roubar oitenta rodas de queijo
    * trabalhar com um agiota
-   * entrar no palácio sem bilhete
+   * entrar no palácio sem um bilhete
 
 2. A acusação ressalta que o Sr. Gregório
 
    * estava endividado, então precisava do dinheiro
-   * é conhecido por vender artefactos no mercado negro
+   * é conhecido por vender artefatos no mercado negro
    * já roubou muitos itens parecidos antes
    * é um criminoso perigoso e violento
 
@@ -25,9 +25,9 @@
 4. Ela ressalta que
 
    * o rosto do ladrão nunca aparece nas imagens da câmara de segurança
-   * dezenas de pessoas foram vistas a entrar na sala privada do Rei
-   * o bilhete encontrado na secretária do Rei pode ser falso
-   * o Sr. Gregório não possui uma camisola preta
+   * dezenas de pessoas foram vistas entrando na sala privada do Rei
+   * o bilhete encontrado na mesa do Rei pode ser falso
+   * o Sr. Gregório não possui um macacão preto
 
 5. Acontece que
 

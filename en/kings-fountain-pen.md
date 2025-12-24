@@ -15,7 +15,7 @@
    * has stolen many similar items before
    * is a dangerous and violent criminal
 
-3. Mr Grey's laywer says that Mr Grey
+3. Mr Grey's lawyer says that Mr Grey
 
    * is a reformed criminal
    * had cleared his debt, so didn't need the money

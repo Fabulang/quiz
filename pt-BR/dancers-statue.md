@@ -32,12 +32,12 @@
 5. Na verdade,
 
    * Hugo *tinha* encontrado a estátua certa
-   * a estátua nem sequer existia
+   * a estátua nem sequer existe
    * a estátua já não estava lá
 
    mas Jenifer não contou isso a Hugo porque
 
-   * gostou de passar tempo com ele
+   * gostou de passar um tempo com ele
    * queria ganhar um passeio gratuito pela cidade
    * ficou envergonhada por fazê-lo trabalhar mais tempo
    * queria ganhar a discussão

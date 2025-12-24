@@ -10,7 +10,7 @@
 2. Beatriz é
 
    * órfã
-   * um bebé
+   * um bebê
    * uma jovem bruxa
    * uma líder da cidade
 
@@ -19,7 +19,7 @@
    * quer ajudar a parar a chuva
    * disseram para ela ir até lá
    * é onde ela nasceu
-   * é tão bonita
+   * ela é muito bonita
 
 4. Ela visita uma bruxa que
 
@@ -44,7 +44,7 @@
    * continuar a fazer chover
    * parar a chuva
 
-   e isso porque ela
+   porque ela
 
    * percebe que não gosta dos habitantes da cidade
    * quer ganhar o respeito dos líderes da cidade
