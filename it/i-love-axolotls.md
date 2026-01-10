@@ -8,28 +8,28 @@
    * immagine
    * maglietta
 
-   Ha un disegno con un axolotl.
+   con un disegno di un axolotl.
 
 2. Cristoforo
 
-   * non ha mai visto un axolotl prima
-   * non gli piacciono gli axolotl
+   * non aveva mai visto un axolotl prima di quel momento
+   * non ama gli axolotl
    * adora gli axolotl
 
-3. Le dice che sono il suo animale preferito perche'
+3. Cristoforo dice a sua figlia che gli axolotl sono il suo animale preferito perché
 
    * non vuole rattristarla
-   * e' vero
+   * è vero
    * hanno facce buffe
 
-4. Sua figlia continua a comprargli regali a tema axolotl perche'
+4. Sua figlia continua a comprargli regali a tema axolotl perché
 
-   * a lui sembrano sempre piacere
+   * Cristoforo sembra sempre apprezzare
    * sono il suo animale preferito
    * lui continua a chiederli
-   * lei non e' molto premurosa
+   * lei non è molto premurosa
 
-5. Anni dopo, Cristoforo spiega perche' ama gli axolotl:
+5. Anni dopo, Cristoforo spiega perché ama gli axolotl:
 
    * lo hanno avvicinato a sua figlia
    * piacciono a sua figlia, quindi piacciono anche a lui

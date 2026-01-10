@@ -10,7 +10,7 @@
 
 2. In cucina, lei prepara
 
-   * diciassette lattine
+   * diciassette scatolette
    * panini al burro di arachidi
    * sugo per pasta già pronto
    * il gas per il fornello da campeggio

@@ -40,15 +40,15 @@
    * desidera disperatamente ottenere il lavoro
    * si sente esausto
 
-   Non ottiene il lavoro.
+   Ad Alano non viene dato il lavoro.
 
-4. Alla fine, Tania corre dietro ad Alano perché
+4. Tania corre dietro ad Alano perché
 
    * ha sentito quello che ha detto al telefono
    * ha dimenticato di fargli un'ultima domanda
    * vuole dirgli che ha commesso un errore
 
-5. In definitiva, Tania
+5. Alla fine, Tania
 
    * offre il lavoro ad Alano
    * si scusa con Alano
