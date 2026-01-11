@@ -3,8 +3,8 @@
 
 1. La storia si svolge
 
-   * negli anni Ottanta
-   * negli anni Trenta
+   * negli anni ottanta
+   * negli anni trenta
    * ai giorni nostri
    * nel futuro
 
@@ -44,5 +44,5 @@
 6. Anni dopo,
 
    * la narratrice pensa ancora al ragazzo
-   * la narratrice va a visitare la casa del ragazzo
+   * la narratrice va a casa del ragazzo
    * la narratrice e il ragazzo si sposano

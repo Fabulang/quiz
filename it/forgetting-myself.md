@@ -1,16 +1,16 @@
 ---
 ---
 
-1. La narratrice ha dimenticato la sua vita prima dell'eta' di
+1. La narratrice ha dimenticato la sua vita prima dell'età dei
 
    * quattordici anni
-   * ventuno anni
+   * ventun anni
    * sette anni
    * quattro anni
 
    come risultato involontario di un intervento chirurgico al cervello per rimuovere un tumore.
 
-2. Nei successivi anni, le amicizie che stringe e le cose che le piacciono sono
+2. Negli anni successivi, le amicizie che stringe e le cose che le piacciono sono
 
    * diverse da
    * uguali a
@@ -26,12 +26,12 @@
 
 4. Il tumore ricomincia a crescere. Se la narratrice non si sottopone a un altro intervento,
 
-   * morira' presto
-   * sviluppera' gravi disabilita'
-   * perdera' ancora piu' ricordi
-   * non potra' sposarsi
+   * morirà presto
+   * svilupperà gravi disabilità
+   * perderà ancora più ricordi
+   * non potrà sposarsi
 
-5. La cosa che la spaventa di piu' e' dimenticare
+5. La cosa che la spaventa di più è dimenticare
 
    * il suo fidanzato
    * i suoi genitori
@@ -41,4 +41,4 @@
 
    * ricorda ancora la sua vita
    * ha dimenticato di nuovo tutto
-   * non e' chiaro se abbia dimenticato di nuovo tutto oppure no
+   * non è chiaro se abbia dimenticato di nuovo tutto oppure no
