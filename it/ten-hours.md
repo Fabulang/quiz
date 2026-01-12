@@ -3,8 +3,8 @@
 
 1. La storia si svolge
 
-   * negli anni ottanta
-   * negli anni trenta
+   * negli anni ottanta del novecento
+   * negli anni trenta del novecento
    * ai giorni nostri
    * nel futuro
 
