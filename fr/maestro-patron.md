@@ -10,7 +10,7 @@
 
 2. Comment le travail est-il organisé dans l'atelier ?
 
-   Le Maestro
+   Le maestro
 
    * peint les parties les plus importantes
    * peint une première version
@@ -21,7 +21,7 @@
 
    * peignent les parties moins importantes
    * réalisent la version finale
-   * corrigent les erreurs du Maestro
+   * corrigent les erreurs du maestro
    * ajoutent davantage de détails à l'ensemble
 
 3. Le mécène veut placer le tableau dans la salle du Conseil, parce que
@@ -31,7 +31,7 @@
    * la salle du Conseil a besoin de décoration
    * il veut promouvoir des politiques plus équitables
 
-4. Le Maestro est en colère contre Filippo parce que
+4. Le maestro est en colère contre Filippo parce que
 
    * Filippo a suivi ses propres idées créatives
    * le travail de Filippo était de mauvaise qualité
@@ -44,5 +44,5 @@
 
    * lui propose de le payer pour réaliser un nouveau tableau
    * souhaite exposer l'esquisse de Filippo dans le nouvel hôpital
-   * lui dit de retourner voir le Maestro et de s'excuser
+   * lui dit de retourner voir le maestro et de s'excuser
    * lui ordonne de se pousser

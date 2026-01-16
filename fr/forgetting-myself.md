@@ -1,13 +1,13 @@
 ---
 ---
-1. La narratrice a oublié sa vie avant l'âge de
+1. La narratrice a involontairement oublié sa vie avant l'âge de
 
    * quatorze ans
    * vingt-et-un ans
    * sept ans
    * quatre ans
 
-   à la suite involontaire d'une opération du cerveau visant à retirer une tumeur.
+   à la suite d'une opération du cerveau visant à retirer une tumeur.
 
 2. Au cours des années suivantes, les amis qu'elle se fait et les choses qu'elle aime sont
 
