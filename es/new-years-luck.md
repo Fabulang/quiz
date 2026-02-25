@@ -22,7 +22,7 @@
 
 3. La tripulación le cuenta a Alejandro historias sobre
 
-   * lo que hacen en Nochevieja en casa
+   * lo que hacen por Nochevieja en casa
    * por qué lo eligieron para la misión
    * sus comidas favoritas
    * las historias de sus vidas

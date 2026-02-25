@@ -18,7 +18,7 @@
 3. Hugo hace un trato con Juanita: si no consigue encontrar la estatua,
 
    * no le cobrará
-   * le invitará a cenar
+   * la invitará a cenar
    * le dará una visita guiada gratuita por la ciudad
    * la llevará a ver ocho estatuas más
 

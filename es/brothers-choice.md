@@ -4,7 +4,7 @@
 1. Lorenzo tiene un reloj que
 
    * pertenecía a su padre
-   * es su favorito de su colección
+   * es su favorito de la colección
    * está roto y sucio
    * su amigo quiere comprar
 
@@ -18,8 +18,8 @@
 
    * a cada hijo un objeto
    * mucho dinero a sus hijos
-   * todo a la investigación médica
-   * nada a sus hijos
+   * todo el dinero a la investigación médica
+   * consejos a sus hijos y nada más
 
 4. El amigo de Lorenzo revela que
 

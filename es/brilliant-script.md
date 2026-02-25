@@ -49,7 +49,7 @@
 
 5. La vecina visita a Domingo para
 
-   * elogiar su escritura
+   * elogiar su escrito
    * decir que lo siente
    * decirle que le quiere
    * comprobar que está bien

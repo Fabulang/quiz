@@ -7,7 +7,7 @@
    * disfruta del trabajo, aunque sea difícil
    * acabará recibiendo un aumento de sueldo
 
-2. El trabajo le paga
+2. En el trabajo le pagan
 
    * un salario alto
    * un salario bajo
@@ -15,7 +15,7 @@
 
 3. El jefe de Nicol
 
-   * dice que su trabajo no cumple sus estándares
+   * dice que su trabajo no cumple los estándares
    * quiere que aporte ideas nuevas
    * le pide que use más gráficos en sus informes
 

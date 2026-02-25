@@ -20,7 +20,7 @@
    * pierde el vuelo de regreso
    * tiene que trabajar
 
-4. De vuelta en casa,
+4. De vuelta en casa, ella
    
    * vuelve al trabajo
    * renuncia a su empleo

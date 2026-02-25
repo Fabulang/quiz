@@ -31,5 +31,5 @@
 5. Luis y su madre estaban en el museo porque
 
    * el cuadro le recuerda a su marido
-   * va a robar el cuadro
-   * planea quemar el cuadro
+   * ella va a robar el cuadro
+   * ella planea quemar el cuadro

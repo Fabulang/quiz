@@ -15,7 +15,7 @@
    * ha robado muchos objetos similares antes
    * es un delincuente peligroso y violento
 
-3. El abogado del señor Gris afirma que el señor Gris
+3. La abogada del señor Gris afirma que el señor Gris
 
    * es un delincuente rehabilitado
    * ya había saldado su deuda, así que no necesitaba el dinero

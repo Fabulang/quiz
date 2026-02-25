@@ -3,7 +3,7 @@
 
 1. Enriqueta está en prisión porque
 
-   * su comportamiento minaba al gobierno
+   * su comportamiento minaba la autoridad del gobierno
    * fue acusada de traición
    * tocó música considerada obscena
    * atacó edificios del gobierno
