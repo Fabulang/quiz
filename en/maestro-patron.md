@@ -38,7 +38,7 @@
    * Filippo didn't apologise to the patron
    * Filippo was rude to the patron
 
-	The Maestro tells Filippo to leave.
+  The Maestro tells Filippo to leave.
 
 5. In the marketplace, a nobleman encounters Filippo and
 

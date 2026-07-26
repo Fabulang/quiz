@@ -38,7 +38,7 @@
    * non si è scusato con il mecenate
    * è stato scortese con il mecenate
 
-	Il maestro dice a Filippo di andarsene.
+  Il maestro dice a Filippo di andarsene.
 
 5. Al mercato, un nobile incontra Filippo e
 
