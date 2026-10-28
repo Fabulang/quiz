@@ -1,7 +1,7 @@
 ---
 ---
 
-1. Nicola arbeitet für einen grossen Konzern. Sie
+1. Nicola arbeitet für einen großen Konzern. Sie
 
    * glaubt nicht, dass es eine bessere Stelle gibt
    * mag ihre Arbeit, obwohl sie schwierig ist
