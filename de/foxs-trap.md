@@ -23,7 +23,7 @@
 
 3. Frau Maus
 
-   * merkt, dass es eine Falle ist, und beschliesst, den Fuchs hereinzulegen
+   * merkt, dass es eine Falle ist, und beschließt, den Fuchs hereinzulegen
    * ist begeistert, den magischen See zu besuchen
    * glaubt Herrn Fuchs, weil sie verletzlich ist
    * ist zu dumm, um zu erkennen, dass es eine Falle ist
