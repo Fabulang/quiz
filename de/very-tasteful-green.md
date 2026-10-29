@@ -7,9 +7,9 @@
    * auf dem Land
    * das sehr alt ist
 
-   und er beschliesst, es neu zu dekorieren.
+   und er beschließt, es neu zu dekorieren.
 
-2. Er trifft Robis, der
+2. Er trifft Robi, der
 
    * etwa sechzig Jahre alt ist
    * Dekorateur ist
@@ -17,19 +17,19 @@
 
    und sehr freundlich wirkt.
 
-3. Robis bietet an, Andreas’ Haus zu dekorieren
+3. Robi bietet an, Andreas’ Haus zu dekorieren
 
    * für einen kleinen Betrag
    * kostenlos
    * zu einem fairen Preis
 
-4. Andreas gibt Robis etwas Geld
+4. Andreas gibt Robi etwas Geld
 
-   * damit Robis mehr Farbe kaufen kann
+   * damit Robi mehr Farbe kaufen kann
    * um Dankbarkeit zu zeigen
    * um Robis’ Arbeit zu bezahlen
 
-5. Robis kommt nicht zurück, weil
+5. Robi kommt nicht zurück, weil
 
    * er ein Betrüger ist
    * Andreas ihn beleidigt hat
