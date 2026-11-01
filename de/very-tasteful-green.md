@@ -17,7 +17,7 @@
 
    und sehr freundlich wirkt.
 
-3. Robi bietet an, Andreas’ Haus zu dekorieren
+3. Robi bietet an, Andreas' Haus zu dekorieren
 
    * für einen kleinen Betrag
    * kostenlos
@@ -27,7 +27,7 @@
 
    * damit Robi mehr Farbe kaufen kann
    * um Dankbarkeit zu zeigen
-   * um Robis’ Arbeit zu bezahlen
+   * um Robis' Arbeit zu bezahlen
 
 5. Robi kommt nicht zurück, weil
 
