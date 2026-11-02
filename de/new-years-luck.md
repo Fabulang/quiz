@@ -38,7 +38,7 @@
    * die Batterien des Raumschiffs auflädt
    * das Raumschiff zurück Richtung Erde schleudert
    * das Raumschiff noch weiter beschädigt
-   * die Solarpanele zerstört
+   * die Solarpanels zerstört
 
 5. Am Ende fühlt sich Alexander glücklich, weil
 
