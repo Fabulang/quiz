@@ -41,7 +41,7 @@
 
 7. Am Ende sagt Beate der Hexe, sie solle
 
-   * den Regen weitermachen lassen
+   * es weiterregnen lassen
    * den Regen stoppen
 
    weil sie
