@@ -31,7 +31,7 @@
 5. Am Ende spielt Henriette ein Lied, weil
 
    * es eine Ablenkung verursachen wird
-   * sie letztlich doch zu viel Angst hat zu fliehen
+   * sie letztlich doch zu viel Angst hat, zu fliehen
    * der Gefängnisleiter es ihr befohlen hat
    * sie die Wachen wütend machen möchte
 
