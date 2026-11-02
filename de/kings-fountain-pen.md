@@ -32,6 +32,6 @@
 5. Es stellt sich heraus, dass
 
    * der wahre Dieb der Richter selbst war
-   * der Richter gar kein echter Richter war: es war eine Verkleidung
+   * der Richter gar kein echter Richter war: Es war eine Verkleidung
    * Herr Graus den Stift tatsächlich gestohlen hat
    * der König seinen Stift einfach verloren hat
