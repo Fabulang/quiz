@@ -1,14 +1,14 @@
 ---
 ---
 
-1. Mlle Souris
+1. Mademoiselle Souris
 
    * manque de confiance en elle
    * n'aime pas être une souris
    * rêve d'avoir des ailes
    * se sent déprimée
 
-2. M. Renard veut manger Mlle Souris, mais
+2. Monsieur Renard veut manger Mademoiselle Souris, mais
 
    * il ne peut pas entrer chez elle
    * il a pitié d'elle
@@ -21,23 +21,23 @@
 
    d'un lac magique et propose de l'y emmener.
 
-3. Mlle Souris
+3. Mademoiselle Souris
 
    * comprend que c'est un piège, et décide de piéger le renard
    * est enthousiaste à l'idée de visiter le lac magique
-   * croit M. Renard parce qu'elle est vulnérable
+   * croit Monsieur Renard parce qu'elle est vulnérable
    * n'est pas assez futée pour comprendre que c'est un piège
 
-4. Elle sort de sa maison, mais M. Renard ne la mange pas, parce que
+4. Elle sort de sa maison, mais Monsieur Renard ne la mange pas, parce que
 
    * il veut aussi manger sa famille
    * il lui a promis de ne pas le faire
    * il veut l'aider
    * elle sera plus savoureuse après la visite au lac magique
 
-5. M. Renard se coince la patte dans un piège parce que
+5. Monsieur Renard se coince la patte dans un piège parce que
 
-   * c'est là que Mlle Souris l'a amené
+   * c'est là que Mademoiselle Souris l'a amené
    * ils ne connaissaient pas réellement le chemin
-   * comme ils discutaient, M. Renard ne faisait pas attention
+   * comme ils discutaient, Monsieur Renard ne faisait pas attention
    * il avait tellement soif qu'il ne l'a pas vu

@@ -8,7 +8,7 @@
    * wishes she had wings
    * is depressed
 
-2. Mr Fox wants to eat Miss Mouse, but
+2. Mr Fox wants to eat Mouse, but
 
    * he can't get inside her house
    * he feels sorry for her
@@ -21,23 +21,23 @@
 
    a magic lake, and offers to take her there.
 
-3. Miss Mouse
+3. Mouse
 
    * realises it's a trick, and decides to trick the fox
    * is excited to visit the magic lake
-   * believes Mr Fox because she's vulnerable
+   * believes Fox because she's vulnerable
    * is too stupid to realise it's a trick
 
-4. She leaves her house, but Mr Fox doesn't eat her, because
+4. She leaves her house, but Fox doesn't eat her, because
 
    * he wants to eat her family too
    * he promised he wouldn't
    * he wants to help her
    * she'll be tastier after she visits the magic lake
 
-5. Mr Fox gets his foot caught in an animal trap, because
+5. Fox gets his foot caught in an animal trap, because
 
-   * Miss Mouse made him run into it
+   * Mouse made him run into it
    * they didn't really know the way
-   * they were talking, so Mr Fox was distracted
+   * they were talking, so Fox was distracted
    * he was thirsty, so he didn't see it
