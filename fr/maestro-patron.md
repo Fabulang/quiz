@@ -38,7 +38,7 @@
    * Filippo ne s'est pas excusé auprès du mécène
    * Filippo s'est montré impoli envers le mécène
 
-	Le Maestro dit à Filippo de partir.
+  Le Maestro dit à Filippo de partir.
 
 5. Sur le marché, un noble rencontre Filippo et
 

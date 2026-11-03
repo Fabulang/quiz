@@ -1,7 +1,7 @@
 ---
 ---
 
-1. La Ratoncita
+1. La señorita Ratoncita
 
    * tiene la autoestima baja
    * no soporta ser una ratona
@@ -25,19 +25,19 @@
 
    * se da cuenta de que es una trampa y decide engañar al zorro
    * está entusiasmada por visitar el lago mágico
-   * cree al señor Zorro porque es vulnerable
+   * cree al Zorro porque es vulnerable
    * es demasiado ingenua para darse cuenta de que es una trampa
 
-4. Ella sale de su casa, pero el señor Zorro no se la come, porque
+4. Ella sale de su casa, pero el Zorro no se la come, porque
 
    * quiere comerse también a su familia
    * prometió que no lo haría
    * quiere ayudarla
    * estará más sabrosa después de visitar el lago mágico
 
-5. El señor Zorro se queda con la pata atrapada en una trampa, porque
+5. El Zorro se queda con la pata atrapada en una trampa, porque
 
    * la Ratoncita le hizo correr hacia ella
    * realmente no conocían el camino
-   * estaban hablando y el señor Zorro se distrajo
+   * estaban hablando y el Zorro se distrajo
    * tenía sed y no la vio

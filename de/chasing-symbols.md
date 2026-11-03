@@ -3,9 +3,9 @@
 
 1. Philippa ist auf dem Mars
 
-   * um nach Hinweisen auf eine ausserirdische Zivilisation zu suchen
+   * um nach Hinweisen auf eine außerirdische Zivilisation zu suchen
    * um an einem Projekt zum Bau einer Stadt zu arbeiten
-   * um eine ausserirdische Sprache zu übersetzen
+   * um eine außerirdische Sprache zu übersetzen
    * weil sie dort lebt
    * um die Höhlen unter der Oberfläche zu erforschen
 
@@ -20,7 +20,7 @@
 
    * muss Philippa zur Erde zurückkehren
    * plant Philippa, den südöstlichen Abschnitt der Höhlen zu erforschen
-   * muss Philippa ihre Mission abschliessen
+   * muss Philippa ihre Mission abschließen
    * muss Philippa mehr Fördermittel beantragen, damit sie bleiben kann
 
 4. Philippa findet ein seltsames Symbol. Das Symbol
@@ -28,13 +28,13 @@
    * sieht ein wenig wie ein Pfeil aus
    * sieht ein wenig wie eine Hand aus
    * ist kunstvoll und komplex -- Zeichen intelligenten Lebens
-   * scheint Teil einer ausserirdischen Sprache zu sein
+   * scheint Teil einer außerirdischen Sprache zu sein
 
 5. Philippa folgt dem Symbol in die Höhlen und findet
 
    * Beweise dafür, dass in der Vergangenheit Ausserirdische auf dem Mars lebten
    * eine geheime Tür, die zu einer Grotte führt
-   * einen Raum mit ausserirdischen Inschriften an den Wänden
+   * einen Raum mit außerirdischen Inschriften an den Wänden
    * nichts -- das Symbol bedeutet gar nichts
 
    aber
